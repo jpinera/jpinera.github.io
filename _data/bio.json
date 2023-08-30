@@ -2,15 +2,15 @@
   "basics": {
     "name": "Jaren Pinera",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "picture": "https://github.com/jpinera.png",
+    "email": "jpinera@hawaii.edu",
+    "phone": "808-725-8142",
     "website": "https://jpinera.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I aspire to become front-end engineer for gaming or media companies.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jpinera", "url": "http://github.com/jpinera" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "jaren-pinera", "url": "http://linkedin.com/in/jaren-pinera-35132228a/" }
     ]
   },
   "interests": [
