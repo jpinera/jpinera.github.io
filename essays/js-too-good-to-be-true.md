@@ -12,7 +12,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/JS_banner2.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/JS_banner2.png">
 
 *My personal experience with learning JavaScript basics (Module 1) and the "Athletic" Software Engineering Model*
 
