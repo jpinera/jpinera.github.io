@@ -46,7 +46,7 @@ One of the main concepts behind action-driven programming is resetting the metho
                bScissors.setEnabled(true);
                bRock.setBackground(cRed);
                bPaper.setBackground(cYellow);
-         	     bScissors.setBackground(cCyan);
+               bScissors.setBackground(cCyan);
                bRock.setBorder(BorderFactory.createLineBorder(Color.white, 5, true));
                bPaper.setBorder(BorderFactory.createLineBorder(Color.white, 5, true));
                bScissors.setBorder(BorderFactory.createLineBorder(Color.white, 5, true));
