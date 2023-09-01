@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/own-projects/RPS-game/RPS_game.png
 title: "Rock-Paper-Scissors (RPS) GUI"
 date: 2022-23-03
 published: true
@@ -10,7 +10,7 @@ labels:
   - Single-Player Game
   - Player vs CPU
   - 
-summary: "A user-interface game of Rock-Paper-Scissors against the computer in Java. The program was made using the Tkinter mod for ICS 211."
+summary: "A user-interface game of Rock-Paper-Scissors against the computer in Java for my ICS 211 course. Java AWT and Java Swing libraries were used for the creation of graphical elements. Action listeners were also implemented for event-driven programming for the graphical user interface (GUI)."
 ---
 
 <div class="text-center p-4">
