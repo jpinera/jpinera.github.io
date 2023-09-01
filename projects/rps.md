@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/own-projects/RPS-game/rps-icon.jpeg
+image: img/own-projects/RPS-game/rps-icon.jpg
 title: "Rock-Paper-Scissors (RPS) GUI"
 date: 2022-23-03
 published: true
@@ -45,7 +45,7 @@ One of the main concepts behind action-driven programming is resetting the metho
                bPaper.setEnabled(true);
                bScissors.setEnabled(true);
                bRock.setBackground(cRed);
-         	     bPaper.setBackground(cYellow);
+               bPaper.setBackground(cYellow);
          	     bScissors.setBackground(cCyan);
                bRock.setBorder(BorderFactory.createLineBorder(Color.white, 5, true));
                bPaper.setBorder(BorderFactory.createLineBorder(Color.white, 5, true));
