@@ -27,7 +27,7 @@ Before the semester even started, all I knew about JS was that it was used for w
 
 ## Functions are priority: They are _first class_
 
-<img width="190px"  class="rounded float-start pe-4" src="../img/technical-essays/JS-1/Function_objects.png">
+<img width="200px"  class="rounded float-start pe-4" src="../img/technical-essays/JS-1/Function_objects.png">
 
 After exploring a little bit in JS, I realized that a majority of its dynamic flexibility revolves around its implementation with functions. In JS, functions are first-class. This means that functions are treated just like any other object or variable. You can assign a variable to a function or even a function to another function. Functions can be parameters for a function or be returned as a value of a function within another function. The collection of these functions can therefore produce hierarchical data structures that are very organic in nature and fluid in its processing at run time. Unlike other languages, such as Java, JS allows functions to be generated dynamically at run-time, which can prevent the occurrence of spending a significant time looking for such tedious bugs in larger-scale projects.The possibilities when working with functions are quite literally… endless. 
 
