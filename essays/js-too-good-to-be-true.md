@@ -14,9 +14,9 @@ labels:
 
 <p align="center">
 <img width="1000px" src="../img/technical-essays/JS-1/JS_banner2.png">
+*My personal experience with learning JavaScript basics (Module 1) and the "Athletic" Software Engineering Model*
 </p>
 
-*My personal experience with learning JavaScript basics (Module 1) and the "Athletic" Software Engineering Model*
 
 <img width="200px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/Boy-in-pool.jpeg">
 
@@ -27,7 +27,7 @@ Before the semester even started, all I knew about JS was that it was used for w
 
 ## Functions are priority: They are _first class_
 
-<img width="250px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/Function_objects.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/Function_objects.png">
 
 After exploring a little bit in JS, I realized that a majority of its dynamic flexibility revolves around its implementation with functions. In JS, functions are first-class. This means that functions are treated just like any other object or variable. You can assign a variable to a function or even a function to another function. Functions can be parameters for a function or be returned as a value of a function within another function. The collection of these functions can therefore produce hierarchical data structures that are very organic in nature and fluid in its processing at run time. Unlike other languages, such as Java, JS allows functions to be generated dynamically at run-time, which can prevent the occurrence of spending a significant time looking for such tedious bugs in larger-scale projects.The possibilities when working with functions are quite literally… endless. 
 
@@ -40,7 +40,7 @@ An interesting aspect that I found to be effective is some of the syntax and key
 <img width="700px"  src="../img/technical-essays/JS-1/Arrow_operator2.png">
 </p>
 
-In addition to simple syntax, I was intrigued by the keywords and technicalities in JS. An example of this was the let keyword. This is similar to declaring any type of variable in Java in that the variable is scope-based and unique to the name that it’s given. However, the main difference that I found is that there is flexibility in changing or converting data types of a variable. Unlike Java, you don’t have to declare a variable’s specific data type, thus making reassignment of variables in JS much more convenient. This applies to other instances as well, such as objects and data structures, where a single array can contain a combination of integers, strings, other arrays, or any other type. 
+In addition to simple syntax, I was intrigued by the keywords and technicalities in JS. An example of this was the `#7a33fflet`let keyword. This is similar to declaring any type of variable in Java in that the variable is scope-based and unique to the name that it’s given. However, the main difference that I found is that there is flexibility in changing or converting data types of a variable. Unlike Java, you don’t have to declare a variable’s specific data type, thus making reassignment of variables in JS much more convenient. This applies to other instances as well, such as objects and data structures, where a single array can contain a combination of integers, strings, other arrays, or any other type. 
 
 Due to the flexibility of automatic data type conversion in JS, chunks of code can be free from errors during compile time. While experimenting with the language, I found that a practical benefit of this case is from the comparison of data types for conditional statements. The comparison operator “==” in JS can allow two different data types to be checked. For instance, the string “8” and the integer 8 will result in true when its corresponding comparison “==” is used. In contrast to Java, using “==” requires the same data type to be compared, which is similar to the strictly equal comparison operator “===” for JS. 
 
@@ -58,7 +58,7 @@ As with everything in life, there are some disadvantages that can act as stumbli
 
 Developing your software engineering from an “athletic” perspective involves the consistency of attempting practice activities called “workout-of-the-day” or WODs. I find this strategy to be both challenging, yet rewarding in a couple of ways. One of the main benefits that I get from practicing WODs includes the “hands-on” technique of solving coding problems. By doing so, I’m not only able to critically think about solving the problem itself, but I’m also becoming more familiar with JS and its syntax.
 
-<img width="500px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/athletic_se1.png">
+<img width="505px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/athletic_se1.png">
 
 Similar to any workout, intensity and duration play important factors towards the impact on positive progress and reliable outcomes. The intensity of a practice WOD produces motivation to focus, think quickly, and complete it successfully. I find the time pressure of completing the WOD to be beneficial as well. I think that the stress produced from the time limit allows me to use my resources effectively and helps me get a better sense of time management when working through the problem. 
 
