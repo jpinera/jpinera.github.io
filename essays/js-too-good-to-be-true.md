@@ -12,7 +12,9 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="1000px" align="middle" src="../img/technical-essays/JS-1/JS_banner2.png">
+<p align="center">
+<img width="1000px" src="../img/technical-essays/JS-1/JS_banner2.png">
+</p>
 
 *My personal experience with learning JavaScript basics (Module 1) and the "Athletic" Software Engineering Model*
 
@@ -34,7 +36,9 @@ After exploring a little bit in JS, I realized that a majority of its dynamic fl
 
 An interesting aspect that I found to be effective is some of the syntax and keywords integrated in JS. These components allowed me to write simpler lines of code and made small programming assignments to be much easier for me. Staying with the topic of functions, I learned about the short-hand notation syntax for writing functions. From ES6, using the arrow markers (=>) can be used to connect the function header with the function’s body of code in a much simpler manner. This was beneficial, especially for functions that were more straightforward, since a function can be defined by just one line of code, as seen in the example below. In comparison to writing functions in Java, which involves writing a function header and body via multiple lines of code, I found the shortcut to be quite refreshing at first glance. 
 
+<p align="center">
 <img width="700px"  src="../img/technical-essays/JS-1/Arrow_operator2.png">
+</p>
 
 In addition to simple syntax, I was intrigued by the keywords and technicalities in JS. An example of this was the let keyword. This is similar to declaring any type of variable in Java in that the variable is scope-based and unique to the name that it’s given. However, the main difference that I found is that there is flexibility in changing or converting data types of a variable. Unlike Java, you don’t have to declare a variable’s specific data type, thus making reassignment of variables in JS much more convenient. This applies to other instances as well, such as objects and data structures, where a single array can contain a combination of integers, strings, other arrays, or any other type. 
 
