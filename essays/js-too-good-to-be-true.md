@@ -19,7 +19,6 @@ labels:
 <img width="1000px" src="../img/technical-essays/JS-1/JS_banner2.png">
 </p>
 
-<img width="200px" class="rounded float-start pe-4" src="../img/technical-essays/JS-1/Boy-in-pool.jpeg">
 
 If you wanted to learn how to swim for the first time, how would you go about doing so? If you had to choose between learning from a swim instructor or learning by jumping right into the water, which one would you pick? One has a certain structure to help you build up the basics, while the other lets you figure out the basics randomly through experience. In the second option, you ultimately get to decide what basics you want to stick to, or rather, the dynamic fluidity of the “rules” you conform can influence your skill level as a swimmer. If you chose the latter and have had coding experience before, then JavaScript (JS) might be the coding language for you. For beginners that have a passion for programming with little to no programming experience, JS may or may not be the best option, depending on your viewpoint. Personally, I view JS as Java’s better older brother because just like an older brother, JS just seems to make everything look easy, or rather easier. Although I just started learning how to code in JS, I am enjoying my journey with it so far, possibly making it my new favorite language. 
 
@@ -28,7 +27,7 @@ Before the semester even started, all I knew about JS was that it was used for w
 
 ## Functions are priority: They are _first class_
 
-<img width="200px"  src="../img/technical-essays/JS-1/Function_objects.png">
+<img width="190px"  class="rounded float-start pe-4" src="../img/technical-essays/JS-1/Function_objects.png">
 
 After exploring a little bit in JS, I realized that a majority of its dynamic flexibility revolves around its implementation with functions. In JS, functions are first-class. This means that functions are treated just like any other object or variable. You can assign a variable to a function or even a function to another function. Functions can be parameters for a function or be returned as a value of a function within another function. The collection of these functions can therefore produce hierarchical data structures that are very organic in nature and fluid in its processing at run time. Unlike other languages, such as Java, JS allows functions to be generated dynamically at run-time, which can prevent the occurrence of spending a significant time looking for such tedious bugs in larger-scale projects.The possibilities when working with functions are quite literally… endless. 
 
@@ -43,7 +42,7 @@ An interesting aspect that I found to be effective is some of the syntax and key
 
 In addition to simple syntax, I was intrigued by the keywords and technicalities in JS. An example of this was the <span style='color: purple;'>**let**</span> keyword. This is similar to declaring any type of variable in Java in that the variable is scope-based and unique to the name that it’s given. However, the main difference that I found is that there is flexibility in changing or converting data types of a variable. Unlike Java, you don’t have to declare a variable’s specific data type, thus making reassignment of variables in JS much more convenient. This applies to other instances as well, such as objects and data structures, where a single array can contain a combination of integers, strings, other arrays, or any other type. 
 
-Due to the flexibility of automatic data type conversion in JS, chunks of code can be free from errors during compile time. While experimenting with the language, I found that a practical benefit of this case is from the comparison of data types for conditional statements. The comparison operator “==” in JS can allow two different data types to be checked. For instance, the string “8” and the integer 8 will result in true when its corresponding comparison “==” is used. In contrast to Java, using “==” requires the same data type to be compared, which is similar to the strictly equal comparison operator “===” for JS. 
+Due to the flexibility of automatic data type conversion in JS, chunks of code can be free from errors during compile time. While experimenting with the language, I found that a practical benefit of this case is from the comparison of data types for conditional statements. The comparison operator "<span style='color: red;'>==</span>” in JS can allow two different data types to be checked. For instance, the string <span style='color: green;'>"8"</span> and the **integer** 8 will result in true when its corresponding comparison "<span style='color: red;'>==</span>” is used. In contrast to Java, using "<span style='color: red;'>==</span>” requires the same data type to be compared, which is similar to the strictly equal comparison operator "<span style='color: red;'>===</span>” for JS. 
 
 
 ## Standardized ES6 with JavaScript: More Shortcuts
