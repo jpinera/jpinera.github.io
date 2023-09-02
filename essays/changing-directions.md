@@ -11,7 +11,7 @@ labels:
   - Career path
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/changing-direction/Software_Dev_1.jpeg">
 
 ## The Fire that Got Lit
 
