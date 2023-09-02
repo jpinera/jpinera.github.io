@@ -36,4 +36,4 @@ More information on ACM at UH-West Oahu can be found here:
 [UH-West Oahu ACM website](https://acmsystem.hawaii.edu/campus/uh-west-oahu/).
 
 Downloadable .mov file to my promo video:
-<a href="uhwo-acm-promo/ACM_Promo_Project_Final.mov">ACM_Promo_Project_Final.mov</a>
+<a href="ACM_Promo_Project_Final.mov">ACM_Promo.mov</a>
