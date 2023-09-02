@@ -10,7 +10,7 @@ labels:
   - After Effects (Ae)
   - Animation
   - Graphics
-summary: "A short 1 minute promotional video for the Academy of Creative Media at UH-West Oahu."
+summary: "A short one minute promotional video for the Academy of Creative Media at UH-West Oahu."
 ---
 
 <div class="text-center p-4">
@@ -35,5 +35,4 @@ More information on ACM at UH-West Oahu can be found here:
 
 [UH-West Oahu ACM website](https://acmsystem.hawaii.edu/campus/uh-west-oahu/).
 
-Downloadable .mov file to my promo video:
-<a href="ACM_Promo_Project_Final.mov">ACM_Promo.mov</a>
+[Link to repo for ACM Promo](https://github.com/jpinera/uhwo-acm_promo).
