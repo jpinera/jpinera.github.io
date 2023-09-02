@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/own-projects/RPS-game/rps-icon.jpg
-title: "Rock-Paper-Scissors (RPS) GUI"
+title: "Rock-Paper-Scissors"
 date: 2022-23-03
 published: true
 labels:
