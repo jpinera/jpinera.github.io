@@ -22,10 +22,10 @@ This project was one of my first attempts at creating a graphical-user interface
 The Tkinter mod was mainly used to set up some small details relating to the main frame of the window. This included setting up an icon image, title, and non-resizable window, which allowed the tic-tac-toe board to be square in nature upon execution. 
 
 Embedded within the code include 4 main functions: play(), press(), checkWin(), and clear(). Each function will run based on the user's performed action when interacting with the GUI. 
-  1) Play(): sets up the main grid and formats the buttons to its specific position when the user opens up the game.
-  2) Press(): switches to an "**O**" or "**X**" icon when a user clicks a space
-  3) checkWin(): checks the win conditions for tic-tac-toe
-  4) clear(): clears the board and resets all buttons once a winner is decided or game results in a tie
+  _1) Play(): sets up the main grid and formats the buttons to its specific position when the user opens up the game.
+  _2) Press(): switches to an "**O**" or "**X**" icon when a user clicks a space
+  _3) checkWin(): checks the win conditions for tic-tac-toe
+  _4) clear(): clears the board and resets all buttons once a winner is decided or game results in a tie
      
 Here is a small snippet of code for the press() function with parameters of the turn order and the row + column position of the respective square on the board:
 
