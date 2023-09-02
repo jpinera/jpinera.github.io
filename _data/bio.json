@@ -39,7 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses":  [
+      "courses":  [ "Math 307"
       ]
     },
     {
@@ -53,27 +53,33 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa- College of Natural Sciences",
+      "position": "Math grader/tutor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "Aug 2023",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Grades papers and tutors students for Math 307 course.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assists students in linear algebra and differential equations courses", 
+        "Corrects homework problem sets, quizzes, and midterm exams",
+        "Picks up and returns corrected material to professor within specified time limit"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "City & County of Honolulu- Dept. Parks & Recreation",
+      "position": "Gym Service Attendant, Arts & Crafts Teacher Assistant",
+      "website": "",
+      "startDate": "June 2022",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Monitors gym facilities to check if courts, multi-purpose rooms, and pool are in good condition",
+        "Manages games for basketball and volleyball leagues, setting up proper equipment",
+        "Performs custodial responsibilities, such as cleaning locker rooms and restocking restroom supplies",
+        "Provides first-aid care to players, if needed",
+        "Assisted in lesson plans for arts-and-crafts classes throughout the Fall and Spring programs",
+        "Distributed supplies to elementary school students during classes",
+        "Guided students through craft projects and encouraged their creativity"
       ]
     }
   ],
@@ -106,17 +112,12 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Scholastic Honors Award",
+      "date": "May 2023",
+      "awarder": "LCC- Office of the Chancellor",
+      "summary": "Recognizes graduates with the highest Associate in Science grade point average."
     }
+
   ],
   "references": [
     {
