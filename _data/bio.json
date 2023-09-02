@@ -56,7 +56,7 @@
       "company": "UH Manoa- College of Natural Sciences",
       "position": "Math grader/tutor",
       "website": "",
-      "startDate": "Aug 2023",
+      "startDate": "2023-08",
       "endDate": "Present",
       "summary": "Grades papers and tutors students for Math 307 course.",
       "highlights": [
@@ -66,10 +66,10 @@
       ]
     },
     {
-      "company": "City & County of Honolulu- Dept. Parks & Recreation",
-      "position": "Gym Service Attendant, Arts & Crafts Teacher Assistant",
+      "company": "City & County of Honolulu- DPR",
+      "position": "Gym Service Attendant/Arts & Crafts Teacher Assistant",
       "website": "",
-      "startDate": "June 2022",
+      "startDate": "2022-06",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -85,35 +85,44 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "St. Jude Catholic Church",
+      "website": "",
+      "position": "Crew Member & Catechist Aide",
+      "startDate": "2014-09",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assisted in Sunday School teaching for Grade 1 students by taking attendance, filing/scanning worksheets, distributing papers and other supplies,     helping students with their work",
+        "Expressed any concerns from students to teacher",
+        "Sanitized seating area after weekly 5 PM mass attendances and reorganized seating arrangements"
       ]
     },
     {
-      "organization": "",
+      "organization": "University of Hawaii- West Oahu",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Ho'opili Hou Conference Presenter",
+      "startDate": "2019-05",
+      "endDate": "Present",
+      "summary": "The Ho'opili Hou Leadership Conference was held at the University of Hawaii- West Oahu. During Spring 2019, I conducted a workshop seminar on overcoming adversity for students within the UH system.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "Kauai Habitat for Humanity",
+      "website": "https://kauaihabitat.org/",
+      "position": "Volunteer member",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "For disaster and humanitarian relief",
+      "highlights": [
+        "Assisted with building the front steps for home construction, which was built for affordable housing purposes in the Lihue community"
       ]
     }
   ],
   "awards": [
     {
       "title": "Scholastic Honors Award",
-      "date": "May 2023",
+      "date": "2023-05",
       "awarder": "LCC- Office of the Chancellor",
       "summary": "Recognizes graduates with the highest Associate in Science grade point average."
     }
