@@ -23,7 +23,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 
 [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
 
 **Smart questions:**
 
@@ -107,43 +107,43 @@ There are plenty of smart questions that I found while searching on Stack Overfl
 There was some difficulty in finding questions that are not best represented to be “smart.” This is mainly because authors and other contributors on Stack Overflow tend to delete these types of forum posts if the question is not relevant to the programming community, or if it doesn’t get answered after a long period of time. After deeply searching through its archives, however, I was able to find several closed threads pertaining to “bad” or “stupid” questions. The following examples include posts of issues that occurred from a very long time ago (almost a decade), which may or may not be prevalent today, but nevertheless demonstrate how to not ask a smart question.
 
    1. In the example below, a user was having trouble [deleting elements in the array using array splice](https://stackoverflow.com/questions/75202848/js-array-splice-deleting-first-element) in JavaScript. The user provides little to no  context of what they are trying to accomplish. Although some code is added to explain the area in which the possible code error occurred, there is not enough background information to consider other possibilities of the error occurring on their end.
+    
+    ```
+    Question:
+    So, i have an array of pfps:
+    
+    ["63c959f37337160e2de8b7e4/20230122173537/profilepicture.png","63c959f37337160e2de8b7e4/20230122173616/profilepicture.png"]
+    And, i want to remove "63c959f37337160e2de8b7e4/20230122173616/profilepicture.png" from the list.
+    
+    But when i run this code:
+    
+    let foundPfp = await pfps.find((pfp: any) => pfp === data.pfpId)
+    if (foundPfp != -1)
+       pfps.splice(foundPfp, 1)
+    then it removes "63c959f37337160e2de8b7e4/20230122173537/profilepicture.png"
+    
+    Can you tell me why? Thanks!
+    
+    ```
+  From this question, we can see that the user is blunt in wanting to know the exact solution to their instance. It is also too specific to the user and doesn’t provide enough context for its specificity, so others will probably not benefit from the post, even if future similar problems are encountered. 
 
-```
-Question:
-So, i have an array of pfps:
+    ```
+    Not sure if this helps, but...
+    
+    Removing the first element from an array
+    
+    let foundPfp = await pfps.find((pfp: any) => pfp === data.pfpId);
+    foundPfp.shift();
+    console.log('first element removed', foundPfp);
+    or if you want to remove a specific element from an array:
+    
+    const pfps = ["63c959f37337160e2de8b7e4/20230122173537/profilepicture.png","63c959f37337160e2de8b7e4/20230122173616/profilepicture.png"]
+    const indexOfElementToRemove = pfps.indexOf("63c959f37337160e2de8b7e4/20230122173537/profilepicture.png");
+    pfps.splice(indexOfElementToRemove, 1);
+    console.log(pfps);
+    ```
 
-["63c959f37337160e2de8b7e4/20230122173537/profilepicture.png","63c959f37337160e2de8b7e4/20230122173616/profilepicture.png"]
-And, i want to remove "63c959f37337160e2de8b7e4/20230122173616/profilepicture.png" from the list.
-
-But when i run this code:
-
-let foundPfp = await pfps.find((pfp: any) => pfp === data.pfpId)
-if (foundPfp != -1)
-   pfps.splice(foundPfp, 1)
-then it removes "63c959f37337160e2de8b7e4/20230122173537/profilepicture.png"
-
-Can you tell me why? Thanks!
-
-```
-From this question, we can see that the user is blunt in wanting to know the exact solution to their instance. It is also too specific to the user and doesn’t provide enough context for its specificity, so others will probably not benefit from the post, even if future similar problems are encountered. 
-
-```
-Not sure if this helps, but...
-
-Removing the first element from an array
-
-let foundPfp = await pfps.find((pfp: any) => pfp === data.pfpId);
-foundPfp.shift();
-console.log('first element removed', foundPfp);
-or if you want to remove a specific element from an array:
-
-const pfps = ["63c959f37337160e2de8b7e4/20230122173537/profilepicture.png","63c959f37337160e2de8b7e4/20230122173616/profilepicture.png"]
-const indexOfElementToRemove = pfps.indexOf("63c959f37337160e2de8b7e4/20230122173537/profilepicture.png");
-pfps.splice(indexOfElementToRemove, 1);
-console.log(pfps);
-```
-
-Although one of 3 given answers resolved the person’s case, the answer was mainly a suggestion due to the lack of context. With words along the lines of “Not sure if this helps, but…,” the respondent had to assume and guess the user’s specific case, fortunately resulting in the right one. In the end, there is a lot of unresolved confusion when other outside community members view this question.
+  Although one of 3 given answers resolved the person’s case, the answer was mainly a suggestion due to the lack of context. With words along the lines of “Not sure if this helps, but…,” the respondent had to assume and guess the user’s specific case, fortunately resulting in the right one. In the end, there is a lot of unresolved confusion when other outside community members view this question.
 
 Link to StackOverflow Question: [Deleting Elements Using Array Splice in JS](https://stackoverflow.com/questions/75202848/js-array-splice-deleting-first-element)
 
@@ -151,20 +151,15 @@ Link to StackOverflow Question: [Deleting Elements Using Array Splice in JS](htt
 
    3.  Other examples include a simple misspelled syntax error when pulling a script into an external script file, which indicates a lack of effort in attempting to solve the error beforehand. A post containing a javascript file in HTML is also another bad example, since it provides vague context and broad generalization. The answers to the respective questions suggest common solutions based on previous assumptions. 
    
+### Thoughts on the "Stupid" Questions
 
 Even though all of these situations resulted in resolved answers, the responses to such questions reflected a lack of “smartness”. A majority of these instances involved a waste of the respondent's time and mainly boiled down to simple errors that could have taken minutes or seconds to solve, had the user either provided enough context or put in some form of minimal effort in attempting to solve it themselves. Furthermore, the posts that these types of questions contain fail to provide future benefit to other readers in the community, which diminishes the expansive knowledge that a community can collectively grow in the long run. 
 
 
 
-
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-
-
 ## A New Approach to Asking Questions
 
-<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
 
 From this module, I have learned that there are many types of questions that can be formed. Within Stack Overflow, I noticed that there are questions relating to more conceptual material on software, while there are others that involve more specific cases in optimizing a software’s utilization. In any case, the determining factor that distinguishes a “good” question from a “bad” one is the value that one can individually get from the given answer. That is, the wording, phrasing, and parametrial context of the question dictates the general “thresholds” of how effective a question actually is. Ultimately, a smart question simplifies down to this: Did we get the answer we were looking for, or one that we can accept, without wasting anyone’s time? If we can comfortably confirm this is the case, and can consistently or habitually ask inquiries on this type of level, then I think we are both well on our way to a bright future in tech. The influence that we have on tech as a whole can be pushed by the boundaries of these “smart” questions.
 
