@@ -45,7 +45,7 @@ In a more practical sense, asking smart questions improves the overall IQ or lev
 
 Upon reviewing Stack Overflow, a website containing community forums relating to programming questions, I was quickly able to find some examples that represent these smart questions. The following question includes and utilizes the guidelines that Raymond mentions in [**How To Ask Questions the Smart Way**](http://www.catb.org/esr/faqs/smart-questions.html).
 
-```css
+```
 Question:
 I have a README.md file for my project underscore-cli, and I want to document the --color flag.
 
@@ -58,11 +58,14 @@ They're also a pain to create / edit / maintain, and are slower for browsers to 
 not a bunch of rendered images of text.
 
 While some Markdown parsers support inline HTML styling, GitHub doesn't; this doesn't work:
-
+```
+```ruby
 <span style="color: green"> Some green text </span>
-
+```
+```
 This doesn't work:
-
+```
+```ruby
 <font color="green"> Some green text </font>
 
 ```
@@ -74,12 +77,16 @@ From this example on [**adding color to GitHub ReadMe.md files**](https://stacko
 Response: One way to add color to a README is by utilising a service that provides placeholder images.
 
 For example this Markdown can be used:
-
+```
+```ruby
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+```
+```
 To create a list of any colors you like:
-
+```
+```ruby
 #f03c15 #f03c15
 #c5f015 #c5f015
 #1589F0 #1589F0
