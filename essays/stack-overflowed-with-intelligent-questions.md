@@ -21,7 +21,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 
 ## The Basics of Smart Questions
 
-**How To Ask Questions the Smart Way** by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
+[**How To Ask Questions the Smart Way**](http://www.catb.org/esr/faqs/smart-questions.html). by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 Smart questions:
 * Are specific, thought-provoking questions: There is generally no straightforward answer. The answer requires some deep critical thinking and profound thought. This helps the community to engage with each other and view topics from multiple approaches via everyone’s unique perspectives.
 * Shows willingness to learn: The question portrays that the user has tried multiple methods and overall contributes to the development of the learning community.
@@ -43,7 +43,51 @@ In a more practical sense, asking smart questions improves the overall IQ or lev
 
 ### Smart Questions Only!
 
-Upon reviewing Stack Overflow, a website containing community forums relating to programming questions, I was quickly able to find some examples that represent these smart questions. The following question includes and utilizes the guidelines that Raymond mentions in How To Ask Questions the Smart Way.
+Upon reviewing Stack Overflow, a website containing community forums relating to programming questions, I was quickly able to find some examples that represent these smart questions. The following question includes and utilizes the guidelines that Raymond mentions in [**How To Ask Questions the Smart Way**](http://www.catb.org/esr/faqs/smart-questions.html)..
+
+```
+Question: I have a README.md file for my project underscore-cli, and I want to document the --color flag.
+
+Currently, the only way to do this is with a screenshot (which can be stored in the project repository):
+
+example.png
+
+But screenshots aren't text, preventing readers from copy/pasting the command in the screenshot. They're also a pain to create / edit / maintain, and are slower for browsers to load. The modern web uses text styles, not a bunch of rendered images of text.
+
+While some Markdown parsers support inline HTML styling, GitHub doesn't; this doesn't work:
+
+<span style="color: green"> Some green text </span>
+
+This doesn't work:
+
+<font color="green"> Some green text </font>
+
+```
+
+
+From this example on [**adding color to GitHub ReadMe.md files**](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file). , the user simply addresses the question in the header. It is a broad topic which other users might want to know how to do. Within the post contains parameters to the problem. In the user’s description, they describe their situation with a linked repository, an appropriate screenshot, and simplified source code for specific details relating to their situation. The user also shows their willingness to learn by mentioning the only possible solution that they found and explaining why they find this method to be tedious. They also mention other methods that they have tried, but didn’t work, and come up with suggestions that have triggered the problem. Although not explicitly stated, the inquirer implicitly asks for tips that could point them towards a more effective method. 
+
+```
+Response: One way to add color to a README is by utilising a service that provides placeholder images.
+
+For example this Markdown can be used:
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+To create a list of any colors you like:
+
+#f03c15 #f03c15
+#c5f015 #c5f015
+#1589F0 #1589F0
+
+```
+
+As a result, the main response to this question highlights the effectiveness of the asked question to begin with. The respondent mentions a specific suggestion along with some example code and a link to coloring text using placeholders. The answer is concise, but beneficial in pointing the user toward the right direction.
+
+Link to StackOverflow Question: [Adding Color on GitHub ReadMe.md File](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file).
+
+There are plenty of smart questions that I found while searching on Stack Overflow, but I chose this question in particular because I found it helpful in applying it to my situation. I was able to use this question to help myself learn more about coloring text on GitHub pages, after encountering a similar problem related to GitHub markdown documentation. From this, the smartness of this question allowed me, an outsider of the community, to enhance my knowledge of web development. 
 
 ### Digging Deep Into Archives
 
@@ -110,16 +154,7 @@ The asker received six possible answers, and he or she was successful in incitin
 
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
 
-```
-Q: Facebook Desktop Notifier
 
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
