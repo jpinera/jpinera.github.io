@@ -45,19 +45,20 @@ In a more practical sense, asking smart questions improves the overall IQ or lev
 
 Upon reviewing Stack Overflow, a website containing community forums relating to programming questions, I was quickly able to find some examples that represent these smart questions. The following question includes and utilizes the guidelines that Raymond mentions in [**How To Ask Questions the Smart Way**](http://www.catb.org/esr/faqs/smart-questions.html).
 
-```
-Question: I have a README.md file for my project underscore-cli, and I want to document the --color flag.
+```css
+Question:
+I have a README.md file for my project underscore-cli, and I want to document the --color flag.
 
 Currently, the only way to do this is with a screenshot (which can be stored in the project repository):
 
 (Picture of screenshot is included)
 
 But screenshots aren't text, preventing readers from copy/pasting the command in the screenshot.
-They're also a pain to create / edit / maintain, and are slower for browsers to load. The modern web uses text styles, not a bunch of rendered images of text.
+They're also a pain to create / edit / maintain, and are slower for browsers to load. The modern web uses text styles,
+not a bunch of rendered images of text.
 
 While some Markdown parsers support inline HTML styling, GitHub doesn't; this doesn't work:
-```
-```js
+
 <span style="color: green"> Some green text </span>
 
 This doesn't work:
