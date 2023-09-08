@@ -21,7 +21,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 
 ## The Basics of Smart Questions
 
-[**How To Ask Questions the Smart Way**](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
+[How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 Smart questions:
 * Are specific, thought-provoking questions: There is generally no straightforward answer. The answer requires some deep critical thinking and profound thought. This helps the community to engage with each other and view topics from multiple approaches via everyone’s unique perspectives.
 * Shows willingness to learn: The question portrays that the user has tried multiple methods and overall contributes to the development of the learning community.
@@ -43,7 +43,7 @@ In a more practical sense, asking smart questions improves the overall IQ or lev
 
 ### Smart Questions Only!
 
-Upon reviewing Stack Overflow, a website containing community forums relating to programming questions, I was quickly able to find some examples that represent these smart questions. The following question includes and utilizes the guidelines that Raymond mentions in [**How To Ask Questions the Smart Way**](http://www.catb.org/esr/faqs/smart-questions.html).
+Upon reviewing Stack Overflow, a website containing community forums relating to programming questions, I was quickly able to find some examples that represent these smart questions. The following question includes and utilizes the guidelines that Raymond mentions in [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
 
 ```
 Question:
@@ -71,7 +71,7 @@ This doesn't work:
 ```
 
 
-From this example on [**adding color to GitHub ReadMe.md files**](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file) , the user simply addresses the question in the header. It is a broad topic which other users might want to know how to do. Within the post contains parameters to the problem. In the user’s description, they describe their situation with a linked repository, an appropriate screenshot, and simplified source code for specific details relating to their situation. The user also shows their willingness to learn by mentioning the only possible solution that they found and explaining why they find this method to be tedious. They also mention other methods that they have tried, but didn’t work, and come up with suggestions that have triggered the problem. Although not explicitly stated, the inquirer implicitly asks for tips that could point them towards a more effective method. 
+From this example on [adding color to GitHub ReadMe.md files](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file) , the user simply addresses the question in the header. It is a broad topic which other users might want to know how to do. Within the post contains parameters to the problem. In the user’s description, they describe their situation with a linked repository, an appropriate screenshot, and simplified source code for specific details relating to their situation. The user also shows their willingness to learn by mentioning the only possible solution that they found and explaining why they find this method to be tedious. They also mention other methods that they have tried, but didn’t work, and come up with suggestions that have triggered the problem. Although not explicitly stated, the inquirer implicitly asks for tips that could point them towards a more effective method. 
 
 ```
 Response:
@@ -104,8 +104,17 @@ There are plenty of smart questions that I found while searching on Stack Overfl
 
 There was some difficulty in finding questions that are not best represented to be “smart.” This is mainly because authors and other contributors on Stack Overflow tend to delete these types of forum posts if the question is not relevant to the programming community, or if it doesn’t get answered after a long period of time. After deeply searching through its archives, however, I was able to find several closed threads pertaining to “bad” or “stupid” questions. The following examples include posts of issues that occurred from a very long time ago (almost a decade), which may or may not be prevalent today, but nevertheless demonstrate how to not ask a smart question.
 
-Even though all of these situations resulted in resolved answers, the responses to such questions reflected a lack of “smartness”. A majority of these instances involved a waste of the respondent's time and mainly boiled down to simple errors that could have taken minutes or seconds to solve, had the user either provided enough context or put in some form of minimal effort in attempting to solve it themselves. Furthermore, the posts that these types of questions contain fail to provide future benefit to other readers in the community, which diminishes the expansive knowledge that a community can collectively grow in the long run. 
-
+   1. In this example, a user was having trouble deleting elements in the array using array splice in JavaScript. The user provides little to no  context of what they are trying to accomplish. Although some code is added to explain the area in which the possible code error occurred, there is not enough background information to consider other possibilities of the error occurring on their end. The description of the problem is produced in this syntaxial format, where X and Y act as placeholders for the specific scenario.
+Q: So I have an array of “X” and I want to remove “Y” from the list. But when I run this code, it removes “Y.” Can you tell me why? Thanks!
+From this question, we can see that the user is blunt in wanting to know the exact solution to their instance. It is also too specific to the user and doesn’t provide enough context for its specificity, so others will probably not benefit from the post, even if future similar problems are encountered. 
+Although one of 3 given answers resolved the person’s case, the answer was mainly a suggestion due to the lack of context. With words along the lines of “Not sure if this helps, but…,” the respondent had to assume and guess the user’s specific case, fortunately resulting in the right one. In the end, there is a lot of unresolved confusion when other outside community members view this question.
+   2. Press(): switches to an "**O**" or "**X**" icon when a user clicks a space
+   3. checkWin(): checks the win conditions for tic-tac-toe
+   4. clear(): clears the board and resets all buttons once a winner is decided or game results in a tie
+      
+1. 
+2. This post relating to a JavaScript program on Grammar Checking is very similar to the previous example mentioned. Although the inquirer mentions their main intentions with the program and provides the source code for it, the prompt merely asks to debug the code for them. It suggests a desperate plea of solving the problem for the user, making the overall question seem “lazy” and implying that the user lacks the effort in attempting to solve it themselves. One of the two responses ended up solving the issue. However, this required the respondent to assume certain things (“This is probably roughly what you’re looking for”). It also included a sly remark of suggesting that the user learn the basics first, guiding the user in being more resourceful (“You should invest some time in learning javascript basics, and use tools like JSLint to check your syntax in the future.”)
+Other examples include a simple misspelled syntax error when pulling a script into an external script file, which indicates a lack of effort in attempting to solve the error beforehand. A post containing a javascript file in HTML is also another bad example, since it provides vague context and broad generalization. The answers to the respective questions suggest common solutions based on previous assumptions. 
 
 ```
 Q: python date of the previous month
@@ -137,37 +146,15 @@ I have not tested this code and i don't want to use it anyway (unless I can't fi
 Thanks for your help!
 ```
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+Even though all of these situations resulted in resolved answers, the responses to such questions reflected a lack of “smartness”. A majority of these instances involved a waste of the respondent's time and mainly boiled down to simple errors that could have taken minutes or seconds to solve, had the user either provided enough context or put in some form of minimal effort in attempting to solve it themselves. Furthermore, the posts that these types of questions contain fail to provide future benefit to other readers in the community, which diminishes the expansive knowledge that a community can collectively grow in the long run. 
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
 
-Like this:
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
-## The foolproof way to get ignored.
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
 ## A New Approach to Asking Questions
 
