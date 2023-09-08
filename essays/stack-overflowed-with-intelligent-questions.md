@@ -15,7 +15,7 @@ labels:
 
 ## A Question Can Be ... Smart?
 
-Asking questions is much like using a calculator… it is only as smart as its user. One can have the fanciest _TI-Nspire CAS II _engineering calculator, but it will only be able to perform its enhanced functions if the user knows how to use and implement them. I believe that inquiries occur and behave much in the same manner. The way in which a question is asked will decide how the output (its answer) performs. 
+Asking questions is much like using a calculator… it is only as smart as its user. One can have the fanciest _TI-Nspire CAS II_ engineering calculator, but it will only be able to perform its enhanced functions if the user knows how to use and implement them. I believe that inquiries occur and behave much in the same manner. The way in which a question is asked will decide how the output (its answer) performs. 
 
 In general, asking questions can be difficult, yet rewarding. It’s not only one of the most fundamentally key aspects to one’s learning, but it is also an important skill to have in order to expand in the knowledge of a particular subject. By seeking help from others, one is able to view the otherwise confusing concepts from a new or fresh perspective. It is this component of collaboration that enables deeper levels of thinking and comprehension of the material. In order to get to such an extensive level, however, one must be able to “ask” their way there through smarter questions. 
 
@@ -24,7 +24,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 Smart questions:
 
-<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovation1.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovation3.png">
 
 * Are specific, thought-provoking questions: There is generally no straightforward answer. The answer requires some deep critical thinking and profound thought. This helps the community to engage with each other and view topics from multiple approaches via everyone’s unique perspectives.
 * Shows willingness to learn: The question portrays that the user has tried multiple methods and overall contributes to the development of the learning community.
@@ -39,7 +39,7 @@ To put it simply, smart questions matter because it saves time. In the fast-pace
 
 ### Smart Software Engineering
 
-<img width="300px" align="right" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovation2.png">
+<img align="right" width="350px"  src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovation2.png">
 
 This is more importantly prevalent in the tech industry and the general ubiquitous scope of software engineering. The rapid and instantaneous development of new technologies will mean that we, as software developers, will not have enough time to keep up and learn how everything works. Being able to communicate effectively through cooperation will hence be the main key to our success in the field. One way in doing so is by asking these “smart” questions: the important questions that will allow us to adapt to such environments with quick intensity, expand the community of critical thinkers, understand the main aspects of new technologies, and deepen our relationship with the technologies used in our lives. The possibilities that are rooted from these “smart” questions can lead to thought-provoking ideas and extensive innovations, since all of us, in one way or another, shape the future of technology.
 
