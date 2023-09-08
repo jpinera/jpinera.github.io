@@ -166,9 +166,9 @@ Link to StackOverflow Question: [Deleting Elements Using Array Splice in JS](htt
       
       Link to StackOverflow Question: [Including a JavaScript File in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html)
 
-### Thoughts on the "Stupid" Questions
-
 <img width="450px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
+
+### Thoughts on the "Stupid" Questions
 
 Even though all of these situations resulted in resolved answers, the responses to such questions reflected a lack of “smartness”. A majority of these instances involved a waste of the respondent's time and mainly boiled down to simple errors that could have taken minutes or seconds to solve, had the user either provided enough context or put in some form of minimal effort in attempting to solve it themselves. Furthermore, the posts that these types of questions contain fail to provide future benefit to other readers in the community, which diminishes the expansive knowledge that a community can collectively grow in the long run. 
 
