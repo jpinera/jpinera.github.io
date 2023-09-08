@@ -74,7 +74,8 @@ This doesn't work:
 From this example on [**adding color to GitHub ReadMe.md files**](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file) , the user simply addresses the question in the header. It is a broad topic which other users might want to know how to do. Within the post contains parameters to the problem. In the user’s description, they describe their situation with a linked repository, an appropriate screenshot, and simplified source code for specific details relating to their situation. The user also shows their willingness to learn by mentioning the only possible solution that they found and explaining why they find this method to be tedious. They also mention other methods that they have tried, but didn’t work, and come up with suggestions that have triggered the problem. Although not explicitly stated, the inquirer implicitly asks for tips that could point them towards a more effective method. 
 
 ```
-Response: One way to add color to a README is by utilising a service that provides placeholder images.
+Response:
+One way to add color to a README is by utilising a service that provides placeholder images.
 
 For example this Markdown can be used:
 ```
