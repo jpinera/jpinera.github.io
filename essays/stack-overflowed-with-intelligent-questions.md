@@ -11,7 +11,10 @@ labels:
   - Stack Overflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Thinking_man.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
+
+_"If there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?” - Scott Adams (American author, cartoonist)_
+
 
 ## A Question Can Be ... Smart?
 
@@ -23,7 +26,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 
 [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 
-<img width="600px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
 
 **Smart questions:**
 
@@ -146,20 +149,21 @@ In the example below, a user was having trouble [deleting elements in the array 
     console.log(pfps);
   ```
 
-  Although one of 3 given answers resolved the person’s case, the answer was mainly a suggestion due to the lack of context. With words along the lines of “Not sure if this helps, but…,” the respondent had to assume and guess the user’s specific case, fortunately resulting in the right one. In the end, there is a lot of unresolved confusion when other outside community members view this question.
+Although one of 3 given answers resolved the person’s case, the answer was mainly a suggestion due to the lack of context. With words along the lines of “Not sure if this helps, but…,” the respondent had to assume and guess the user’s specific case, fortunately resulting in the right one. In the end, there is a lot of unresolved confusion when other outside community members view this question.
 
 Link to StackOverflow Question: [Deleting Elements Using Array Splice in JS](https://stackoverflow.com/questions/75202848/js-array-splice-deleting-first-element)
 
 ### More "Stupid" Questions
 
    1. This post relating to a [JavaScript program on Grammar Checking](https://stackoverflow.com/questions/18805551/javascript-grammar-checking) is very similar to the previous example mentioned. Although the inquirer mentions their main intentions with the program and provides the source code for it, the prompt merely asks to debug the code for them. It suggests a desperate plea of solving the problem for the user, making the overall question seem “lazy” and implying that the user lacks the effort in attempting to solve it themselves. One of the two responses ended up solving the issue. However, this required the respondent to assume certain things ("<span style='color: purple;'>**This is probably roughly what you’re looking for**</span>"). It also included a sly remark of suggesting that the user learn the basics first, guiding the user in being more resourceful ("<span style='color: purple;'>**You should invest some time in learning javascript basics, and use tools like JSLint to check your syntax in the future**</span>.")
+     
+      Link to StackOverflow Question: [Grammar Checking on JS](https://stackoverflow.com/questions/18805551/javascript-grammar-checking)
 
-Link to StackOverflow Question: [Grammar Checking on JS](https://stackoverflow.com/questions/18805551/javascript-grammar-checking)
-
-   2. Other examples include a simple misspelled syntax error when [pulling code into an external script file](https://stackoverflow.com/questions/9912150/how-do-you-pull-javascript-code-into-an-external-script-file?noredirect=1&lq=1), which indicates a lack of effort in attempting to solve the error beforehand. A post containing a [javascript file in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html) is also another bad example, since it provides vague context and broad generalization. The answers to the respective questions suggest common solutions based on previous assumptions.
-
-Link to StackOverflow Question: [Pulling into an External Script File in JS](https://stackoverflow.com/questions/9912150/how-do-you-pull-javascript-code-into-an-external-script-file?noredirect=1&lq=1)
-Link to StackOverflow Question: [Including a JavaScript File in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html)
+   4. Other examples include a simple misspelled syntax error when [pulling code into an external script file](https://stackoverflow.com/questions/9912150/how-do-you-pull-javascript-code-into-an-external-script-file?noredirect=1&lq=1), which indicates a lack of effort in attempting to solve the error beforehand. A post containing a [javascript file in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html) is also another bad example, since it provides vague context and broad generalization. The answers to the respective questions suggest common solutions based on previous assumptions.
+      
+      Link to StackOverflow Question: [Pulling into an External Script File in JS](https://stackoverflow.com/questions/9912150/how-do-you-pull-javascript-code-into-an-external-script-file?noredirect=1&lq=1)
+      
+      Link to StackOverflow Question: [Including a JavaScript File in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html)
 
 ### Thoughts on the "Stupid" Questions
 
@@ -168,7 +172,7 @@ Even though all of these situations resulted in resolved answers, the responses 
 
 ## A New Approach to Asking Questions
 
-<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Thinking_man.png">
 
 From this module, I have learned that there are many types of questions that can be formed. Within Stack Overflow, I noticed that there are questions relating to more conceptual material on software, while there are others that involve more specific cases in optimizing a software’s utilization. In any case, the determining factor that distinguishes a “good” question from a “bad” one is the value that one can individually get from the given answer. That is, the wording, phrasing, and parametrial context of the question dictates the general “thresholds” of how effective a question actually is. Ultimately, a smart question simplifies down to this: Did we get the answer we were looking for, or one that we can accept, without wasting anyone’s time? If we can comfortably confirm this is the case, and can consistently or habitually ask inquiries on this type of level, then I think we are both well on our way to a bright future in tech. The influence that we have on tech as a whole can be pushed by the boundaries of these “smart” questions.
 
