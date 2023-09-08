@@ -22,16 +22,17 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 ## The Basics of Smart Questions
 
 [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
-Smart questions:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovation3.png">
 
-* Are specific, thought-provoking questions: There is generally no straightforward answer. The answer requires some deep critical thinking and profound thought. This helps the community to engage with each other and view topics from multiple approaches via everyone’s unique perspectives.
-* Shows willingness to learn: The question portrays that the user has tried multiple methods and overall contributes to the development of the learning community.
-* Shows effort in doing previous searching: One can’t find a direct answer from a quick Google search
-* Asks for guidance to lean in the right direction: The question does not demand for a solution to the answer, but perhaps rather implies for some suggestive tips to point in the right direction toward the answer. This can possibly include asking for a conceptual explanation of how the error occurred.
-* Can simply be identified or narrowed down. The question identifies a distinct, explicit problem, so that the reader can understand what actual error is. It is not too open-ended or generalized, but it can be if the question relates to material on a conceptual level.
-* Is not too specific and provides sufficient context: There is enough context for others to realize how an error occurred. This mainly involves including specific descriptions of the technologies that were used. The question can be based on a personal encounter, but should also be more generalized, so that others can find the question helpful when encountering a similar situation.
+**Smart questions:**
+
+* **Are specific, thought-provoking questions**: There is generally no straightforward answer. The answer requires some deep critical thinking and profound thought. This helps the community to engage with each other and view topics from multiple approaches via everyone’s unique perspectives.
+* **Shows willingness to learn**: The question portrays that the user has tried multiple methods and overall contributes to the development of the learning community.
+* **Shows effort in doing previous searching**: One can’t find a direct answer from a quick Google search
+* **Asks for guidance to lean in the right direction**: The question does not demand for a solution to the answer, but perhaps rather implies for some suggestive tips to point in the right direction toward the answer. This can possibly include asking for a conceptual explanation of how the error occurred.
+* **Can simply be identified or narrowed down**: The question identifies a distinct, explicit problem, so that the reader can understand what actual error is. It is not too open-ended or generalized, but it can be if the question relates to material on a conceptual level.
+* **Is not too specific and provides sufficient context**: There is enough context for others to realize how an error occurred. This mainly involves including specific descriptions of the technologies that were used. The question can be based on a personal encounter, but should also be more generalized, so that others can find the question helpful when encountering a similar situation.
 
 ## Why Does It Matter?
 
