@@ -59,13 +59,13 @@ not a bunch of rendered images of text.
 
 While some Markdown parsers support inline HTML styling, GitHub doesn't; this doesn't work:
 ```
-```ruby
+```js
 <span style="color: green"> Some green text </span>
 ```
 ```
 This doesn't work:
 ```
-```ruby
+```js
 <font color="green"> Some green text </font>
 
 ```
@@ -86,7 +86,7 @@ For example this Markdown can be used:
 ```
 To create a list of any colors you like:
 ```
-```ruby
+```js
 #f03c15 #f03c15
 #c5f015 #c5f015
 #1589F0 #1589F0
