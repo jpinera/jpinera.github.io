@@ -35,7 +35,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 * <span style='color: red;'>**Shows effort in doing previous searching**</span> : One can’t find a direct answer from a quick Google search
 * <span style='color: red;'>**Asks for guidance to lean in the right direction**</span> : The question does not demand for a solution to the answer, but perhaps rather implies for some suggestive tips to point in the right direction toward the answer. This can possibly include asking for a conceptual explanation of how the error occurred.
 * <span style='color: red;'>**Can simply be identified or narrowed down**</span> : The question identifies a distinct, explicit problem, so that the reader can understand what actual error is. It is not too open-ended or generalized, but it can be if the question relates to material on a conceptual level.
-* <span style='color: red;'>**Is not too specific and provides sufficient context**</span> : There is enough context for others to realize how an error occurred. This mainly involves including specific descriptions of the technologies that were used. The question can be based on a personal encounter, but should also be more generalized, so that others can find the question helpful when encountering a similar situation.
+* <span style='color: red;'>**Provides sufficient context**</span> : There is enough context for others to realize how an error occurred. This mainly involves including specific descriptions of the technologies that were used. The question can be based on a personal encounter, but should also be more generalized, so that others can find the question helpful when encountering a similar situation.
 
 ## Why Does It Matter?
 
@@ -134,6 +134,7 @@ In the example below, a user was having trouble [deleting elements in the array 
   
 
 - ```
+    Response:
     Not sure if this helps, but...
     
     Removing the first element from an array
