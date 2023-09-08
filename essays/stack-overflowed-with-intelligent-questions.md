@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="320px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Thinking_man.png">
+<img width="335px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Thinking_man.png">
 
 _"If there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?” - Scott Adams (American author, cartoonist)_
 
@@ -26,7 +26,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 
 [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
 
 **Smart questions:**
 
@@ -172,7 +172,7 @@ Link to StackOverflow Question: [Deleting Elements Using Array Splice in JS](htt
 Even though all of these situations resulted in resolved answers, the responses to such questions reflected a lack of “smartness”. A majority of these instances involved a waste of the respondent's time and mainly boiled down to simple errors that could have taken minutes or seconds to solve, had the user either provided enough context or put in some form of minimal effort in attempting to solve it themselves. Furthermore, the posts that these types of questions contain fail to provide future benefit to other readers in the community, which diminishes the expansive knowledge that a community can collectively grow in the long run. 
 
 
-## A New Approach to Asking Questions
+**## A New Approach to Asking Questions**
 
 
 From this module, I have learned that there are many types of questions that can be formed. Within Stack Overflow, I noticed that there are questions relating to more conceptual material on software, while there are others that involve more specific cases in optimizing a software’s utilization. In any case, the determining factor that distinguishes a “good” question from a “bad” one is the value that one can individually get from the given answer. That is, the wording, phrasing, and parametrial context of the question dictates the general “thresholds” of how effective a question actually is. Ultimately, a smart question simplifies down to this: Did we get the answer we were looking for, or one that we can accept, without wasting anyone’s time? If we can comfortably confirm this is the case, and can consistently or habitually ask inquiries on this type of level, then I think we are both well on our way to a bright future in tech. The influence that we have on tech as a whole can be pushed by the boundaries of these “smart” questions.
