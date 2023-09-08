@@ -23,16 +23,16 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 
 [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 
-<img width="500px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
 
 **Smart questions:**
 
-* **Are specific, thought-provoking questions**: There is generally no straightforward answer. The answer requires some deep critical thinking and profound thought. This helps the community to engage with each other and view topics from multiple approaches via everyone’s unique perspectives.
-* **Shows willingness to learn**: The question portrays that the user has tried multiple methods and overall contributes to the development of the learning community.
-* **Shows effort in doing previous searching**: One can’t find a direct answer from a quick Google search
-* **Asks for guidance to lean in the right direction**: The question does not demand for a solution to the answer, but perhaps rather implies for some suggestive tips to point in the right direction toward the answer. This can possibly include asking for a conceptual explanation of how the error occurred.
-* **Can simply be identified or narrowed down**: The question identifies a distinct, explicit problem, so that the reader can understand what actual error is. It is not too open-ended or generalized, but it can be if the question relates to material on a conceptual level.
-* **Is not too specific and provides sufficient context**: There is enough context for others to realize how an error occurred. This mainly involves including specific descriptions of the technologies that were used. The question can be based on a personal encounter, but should also be more generalized, so that others can find the question helpful when encountering a similar situation.
+* <span style='color: red;'>**Are specific, thought-provoking questions**</span> : There is generally no straightforward answer. The answer requires some deep critical thinking and profound thought. This helps the community to engage with each other and view topics from multiple approaches via everyone’s unique perspectives.
+* <span style='color: red;'>**Shows willingness to learn**</span> : The question portrays that the user has tried multiple methods and overall contributes to the development of the learning community.
+* <span style='color: red;'>**Shows effort in doing previous searching**</span> : One can’t find a direct answer from a quick Google search
+* <span style='color: red;'>**Asks for guidance to lean in the right direction**</span> : The question does not demand for a solution to the answer, but perhaps rather implies for some suggestive tips to point in the right direction toward the answer. This can possibly include asking for a conceptual explanation of how the error occurred.
+* <span style='color: red;'>**Can simply be identified or narrowed down**</span> : The question identifies a distinct, explicit problem, so that the reader can understand what actual error is. It is not too open-ended or generalized, but it can be if the question relates to material on a conceptual level.
+* <span style='color: red;'>**Is not too specific and provides sufficient context**</span> : There is enough context for others to realize how an error occurred. This mainly involves including specific descriptions of the technologies that were used. The question can be based on a personal encounter, but should also be more generalized, so that others can find the question helpful when encountering a similar situation.
 
 ## Why Does It Matter?
 
@@ -106,9 +106,10 @@ There are plenty of smart questions that I found while searching on Stack Overfl
 
 There was some difficulty in finding questions that are not best represented to be “smart.” This is mainly because authors and other contributors on Stack Overflow tend to delete these types of forum posts if the question is not relevant to the programming community, or if it doesn’t get answered after a long period of time. After deeply searching through its archives, however, I was able to find several closed threads pertaining to “bad” or “stupid” questions. The following examples include posts of issues that occurred from a very long time ago (almost a decade), which may or may not be prevalent today, but nevertheless demonstrate how to not ask a smart question.
 
-   1. In the example below, a user was having trouble [deleting elements in the array using array splice](https://stackoverflow.com/questions/75202848/js-array-splice-deleting-first-element) in JavaScript. The user provides little to no  context of what they are trying to accomplish. Although some code is added to explain the area in which the possible code error occurred, there is not enough background information to consider other possibilities of the error occurring on their end.
+In the example below, a user was having trouble [deleting elements in the array using array splice](https://stackoverflow.com/questions/75202848/js-array-splice-deleting-first-element) in JavaScript. The user provides little to no  context of what they are trying to accomplish. Although some code is added to explain the area in which the possible code error occurred, there is not enough background information to consider other possibilities of the error occurring on their end.
+
+ - ```
     
-    ```
     Question:
     So, i have an array of pfps:
     
@@ -125,9 +126,11 @@ There was some difficulty in finding questions that are not best represented to 
     Can you tell me why? Thanks!
     
     ```
+   
   From this question, we can see that the user is blunt in wanting to know the exact solution to their instance. It is also too specific to the user and doesn’t provide enough context for its specificity, so others will probably not benefit from the post, even if future similar problems are encountered. 
+  
 
-    ```
+- ```
     Not sure if this helps, but...
     
     Removing the first element from an array
@@ -141,25 +144,31 @@ There was some difficulty in finding questions that are not best represented to 
     const indexOfElementToRemove = pfps.indexOf("63c959f37337160e2de8b7e4/20230122173537/profilepicture.png");
     pfps.splice(indexOfElementToRemove, 1);
     console.log(pfps);
-    ```
+  ```
 
   Although one of 3 given answers resolved the person’s case, the answer was mainly a suggestion due to the lack of context. With words along the lines of “Not sure if this helps, but…,” the respondent had to assume and guess the user’s specific case, fortunately resulting in the right one. In the end, there is a lot of unresolved confusion when other outside community members view this question.
 
 Link to StackOverflow Question: [Deleting Elements Using Array Splice in JS](https://stackoverflow.com/questions/75202848/js-array-splice-deleting-first-element)
 
-   2. This post relating to a JavaScript program on Grammar Checking is very similar to the previous example mentioned. Although the inquirer mentions their main intentions with the program and provides the source code for it, the prompt merely asks to debug the code for them. It suggests a desperate plea of solving the problem for the user, making the overall question seem “lazy” and implying that the user lacks the effort in attempting to solve it themselves. One of the two responses ended up solving the issue. However, this required the respondent to assume certain things (“This is probably roughly what you’re looking for”). It also included a sly remark of suggesting that the user learn the basics first, guiding the user in being more resourceful (“You should invest some time in learning javascript basics, and use tools like JSLint to check your syntax in the future.”)
+### More "Stupid" Questions
 
-   3.  Other examples include a simple misspelled syntax error when pulling a script into an external script file, which indicates a lack of effort in attempting to solve the error beforehand. A post containing a javascript file in HTML is also another bad example, since it provides vague context and broad generalization. The answers to the respective questions suggest common solutions based on previous assumptions. 
-   
+   1. This post relating to a [JavaScript program on Grammar Checking](https://stackoverflow.com/questions/18805551/javascript-grammar-checking) is very similar to the previous example mentioned. Although the inquirer mentions their main intentions with the program and provides the source code for it, the prompt merely asks to debug the code for them. It suggests a desperate plea of solving the problem for the user, making the overall question seem “lazy” and implying that the user lacks the effort in attempting to solve it themselves. One of the two responses ended up solving the issue. However, this required the respondent to assume certain things ("<span style='color: purple;'>**This is probably roughly what you’re looking for**</span>"). It also included a sly remark of suggesting that the user learn the basics first, guiding the user in being more resourceful ("<span style='color: purple;'>**You should invest some time in learning javascript basics, and use tools like JSLint to check your syntax in the future**</span>.")
+
+Link to StackOverflow Question: [Grammar Checking on JS](https://stackoverflow.com/questions/18805551/javascript-grammar-checking)
+
+   2. Other examples include a simple misspelled syntax error when [pulling code into an external script file](https://stackoverflow.com/questions/9912150/how-do-you-pull-javascript-code-into-an-external-script-file?noredirect=1&lq=1), which indicates a lack of effort in attempting to solve the error beforehand. A post containing a [javascript file in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html) is also another bad example, since it provides vague context and broad generalization. The answers to the respective questions suggest common solutions based on previous assumptions.
+
+Link to StackOverflow Question: [Pulling into an External Script File in JS](https://stackoverflow.com/questions/9912150/how-do-you-pull-javascript-code-into-an-external-script-file?noredirect=1&lq=1)
+Link to StackOverflow Question: [Including a JavaScript File in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html)
+
 ### Thoughts on the "Stupid" Questions
 
 Even though all of these situations resulted in resolved answers, the responses to such questions reflected a lack of “smartness”. A majority of these instances involved a waste of the respondent's time and mainly boiled down to simple errors that could have taken minutes or seconds to solve, had the user either provided enough context or put in some form of minimal effort in attempting to solve it themselves. Furthermore, the posts that these types of questions contain fail to provide future benefit to other readers in the community, which diminishes the expansive knowledge that a community can collectively grow in the long run. 
 
 
-
 ## A New Approach to Asking Questions
 
-<img width="400px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
 
 From this module, I have learned that there are many types of questions that can be formed. Within Stack Overflow, I noticed that there are questions relating to more conceptual material on software, while there are others that involve more specific cases in optimizing a software’s utilization. In any case, the determining factor that distinguishes a “good” question from a “bad” one is the value that one can individually get from the given answer. That is, the wording, phrasing, and parametrial context of the question dictates the general “thresholds” of how effective a question actually is. Ultimately, a smart question simplifies down to this: Did we get the answer we were looking for, or one that we can accept, without wasting anyone’s time? If we can comfortably confirm this is the case, and can consistently or habitually ask inquiries on this type of level, then I think we are both well on our way to a bright future in tech. The influence that we have on tech as a whole can be pushed by the boundaries of these “smart” questions.
 
