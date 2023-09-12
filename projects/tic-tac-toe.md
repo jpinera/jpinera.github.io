@@ -15,12 +15,11 @@ summary: "A user-interface game of Tic-Tac-Toe in Python using the Tkinter mod a
 
 <img class="img-fluid" src="../img/own-projects/tic-tac-toe/Tic_tac_toe.png">
 
-This project was one of my first attempts at creating a graphical-user interface (GUI). After becoming familiar with Python in my ICS 110P class, my goal behind this was to use my previous skils to create something that was interactable. I decided to make a simple game (tic-tac-toe), so that I can focus on the key aspects of abstraction in classes and function execution. The Tkinter library was used to help create the elements of the GUI. 
+This project was one of my first attempts at creating a graphical-user interface (GUI). After becoming familiar with Python in my ICS 110P class, my goal behind this was to use my previous skills to create something that the user can interact with. I decided to make a simple game (tic-tac-toe), so that I can focus on the key aspects of abstraction in classes and function execution. The Tkinter library was used to help create the elements of the GUI. 
 
 ## More About the Project
 
-The Tkinter mod was mainly used to set up some small details relating to the main frame of the window. This included setting up an icon image, title, and non-resizable window, which allowed the tic-tac-toe board to be square in nature upon execution. 
-Hello, this is a test edit.
+The Tkinter mod was mainly used to set up some small details relating to the main frame of the window. This included setting up an icon image, title, and non-resizable window, which allowed the tic-tac-toe board to be square in nature upon execution.
 Embedded within the code include 4 main functions: play(), press(), checkWin(), and clear(). Each function will run based on the user's performed action when interacting with the GUI. 
 
    1. Play(): sets up the main grid and formats the buttons to its specific position when the user opens up the game.
