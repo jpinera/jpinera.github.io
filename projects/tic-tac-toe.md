@@ -20,7 +20,7 @@ This project was one of my first attempts at creating a graphical-user interface
 ## More About the Project
 
 The Tkinter mod was mainly used to set up some small details relating to the main frame of the window. This included setting up an icon image, title, and non-resizable window, which allowed the tic-tac-toe board to be square in nature upon execution. 
-
+Hello, this is a test edit.
 Embedded within the code include 4 main functions: play(), press(), checkWin(), and clear(). Each function will run based on the user's performed action when interacting with the GUI. 
 
    1. Play(): sets up the main grid and formats the buttons to its specific position when the user opens up the game.
