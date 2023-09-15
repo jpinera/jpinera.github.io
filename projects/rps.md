@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/own-projects/RPS-game/rps-icon.jpg
 title: "Rock-Paper-Scissors"
-date: March 2022
+date: 2022-03-23
 published: true
 labels:
   - Java
