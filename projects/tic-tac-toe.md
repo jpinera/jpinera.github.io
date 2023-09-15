@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/own-projects/tic-tac-toe/Tic_tac_toe.png
 title: "Tic-Tac-Toe"
-date: 2021-16-10
+date: October 2021
 published: true
 labels:
   - Python
