@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/own-projects/acm-uhwo-promo/acm-logo.png
 title: "ACM Promo Video"
-date: 2021-09-05
+date: May 2021
 published: true
 labels:
   - Adobe
