@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Thinking_man.png">
+< img width="350px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Thinking_man.png">
 
 _"If there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?” - Scott Adams (American author, cartoonist)_
 
@@ -26,7 +26,7 @@ In general, asking questions can be difficult, yet rewarding. It’s not only on
 
 [How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steve Raymond describes how to generate questions that are more impactful and significant, especially within the tech community. The following summarizes the basic principles and foundations of developing “smart” questions.
 
-<img width="500px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
+< img width="500px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovative3.png">
 
 **Smart questions:**
 
@@ -43,7 +43,7 @@ To put it simply, smart questions matter because it saves time. In the fast-pace
 
 ### Smart Software Engineering
 
-<img align="right" width="300px"  src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovation2.png">
+< img align="right" width="300px"  src="../img/technical-essays/stack-overflowed-with-intelligent-questions/innovation2.png">
 
 This is more importantly prevalent in the tech industry and the general ubiquitous scope of software engineering. The rapid and instantaneous development of new technologies will mean that we, as software developers, will not have enough time to keep up and learn how everything works. Being able to communicate effectively through cooperation will hence be the main key to our success in the field. One way in doing so is by asking these “smart” questions: the important questions that will allow us to adapt to such environments with quick intensity, expand the community of critical thinkers, understand the main aspects of new technologies, and deepen our relationship with the technologies used in our lives. The possibilities that are rooted from these “smart” questions can lead to thought-provoking ideas and extensive innovations, since all of us, in one way or another, shape the future of technology.
 
@@ -166,7 +166,7 @@ Link to StackOverflow Question: [Deleting Elements Using Array Splice in JS](htt
       
       Link to StackOverflow Question: [Including a JavaScript File in HTML](https://stackoverflow.com/questions/9458482/how-to-include-a-javascript-file-in-the-html)
 
-<img width="450px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
+< img width="450px" class="rounded float-start pe-4" src="../img/technical-essays/stack-overflowed-with-intelligent-questions/Einstein_Quote.png">
 
 ### Thoughts on the "Stupid" Questions
 
