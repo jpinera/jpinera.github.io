@@ -17,16 +17,14 @@ labels:
 *Everything must have a standard. Otherwise, how would we know what needs to be met?*
 
 <p align="center">
-    <img width="400px" src="../img/technical-essays/setting-the-standard/ESLint.png" class="img-thumbnail" >
+    <img width="400px" src="../img/technical-essays/setting-the-standard/ESLint.png" class="img-thumbnail" alt="ESLint logo">
 </p>
 
 ## A Tedious Red Squiggle
 
-Initially, I found ESLint to be very exhausting to use... everything just seemed so technical. Red squiggles would appear as soon as I wrote my first line of code. Exclamation marks in bright and shiny ruby would indicate that my code was _not_ up to par by any means. It was a struggle to learn what each error represented to say the least. Understanding why ESLint detected what sometimes seemed like the smallest of and tiniest of detailed errors is something that I still can't seem to figure out. What seems like completely normal and well-organized code from an outside perspective is actually a huge inconsistent mess under the hood. And so the process of resolving the format and syntax error begins...
+Initially, I found ESLint to be very exhausting to use... everything just seemed so technical. The sight of seeing a marked down error upon initial coding has given me some slight troubling anxiety. Although I've recently began getting more used to the sea of red squiggles, it still bothers me today at times. Red squiggles would appear as soon as I wrote my first line of code. Exclamation marks in bright and shiny ruby would indicate that my code was _not_ up to par by any means. It was a struggle to learn what each error represented to say the least. Understanding why ESLint detected what sometimes seemed like the smallest of and tiniest of detailed errors is something that I still can't seem to figure out. What seems like completely normal and well-organized code from an outside perspective is actually a huge inconsistent mess under the hood. And so the process of resolving the format and syntax error begins...
 
-The sight of seeing a marked down error upon initial coding has given me some slight troubling anxiety. Although I've recently began getting more used to the sea of red squiggles, it still bothers me today at times. 
-
-<img width="250px"  class="rounded float-start pe-4" src="../img/technical-essays/setting-the-standard/green_checkmark.png">
+<img width="250px"  class="rounded float-start pe-4" src="../img/technical-essays/setting-the-standard/green_checkmark.png" alt="Green Checkmark Logo">
 
 ## The Satisfaction from a Green Checkmark
 
