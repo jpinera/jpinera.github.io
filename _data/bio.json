@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Jaren Pinera",
+    "label": "Student",
+    "picture": "https://github.com/jpinera.png",
+    "email": "jpinera@hawaii.edu",
+    "phone": "808-725-8142",
+    "website": "https://jpinera.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I aspire to become front-end engineer for gaming or media companies.",
+    "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jpinera", "url": "http://github.com/jpinera" },
+      { "network": "linkedin", "username": "jaren-pinera", "url": "http://linkedin.com/in/jaren-pinera-35132228a/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Computer graphics" },
+    { "name": "Interactive media" },
+    { "name": "Data Analysis & Visualization" },
+    { "name": "Animation" },
+    { "name": "Digital art" },
+    { "name": "3D Design & Modeling" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Java", "C", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2023",
+      "endDate": "Present",
+      "courses":  [ "Math 307"
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science- Information & Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2020",
+      "endDate": "2022",
+      "courses": ["ICS 110P", "ICS 111", "ICS 141", "ICS 211", "ICS 212", "ICS 241"] 
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa- College of Natural Sciences",
+      "position": "Math grader/tutor",
+      "website": "",
+      "startDate": "2023-21-08",
+      "endDate": "Present",
+      "summary": "Grades papers and tutors students for Math 307 course.",
+      "highlights": [
+        "Assists students in linear algebra and differential equations courses", 
+        "Corrects homework problem sets, quizzes, and midterm exams",
+        "Picks up and returns corrected material to professor within specified time limit"
+      ]
+    },
+    {
+      "company": "City & County of Honolulu- DPR",
+      "position": "Gym Service Attendant/Arts & Crafts Teacher Assistant",
+      "website": "",
+      "startDate": "2022-22-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Monitors gym facilities to check if courts, multi-purpose rooms, and pool are in good condition",
+        "Manages games for basketball and volleyball leagues, setting up proper equipment",
+        "Performs custodial responsibilities, such as cleaning locker rooms and restocking restroom supplies",
+        "Provides first-aid care to players, if needed",
+        "Assisted in lesson plans for arts-and-crafts classes throughout the Fall and Spring programs",
+        "Distributed supplies to elementary school students during classes",
+        "Guided students through craft projects and encouraged their creativity"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "St. Jude Catholic Church",
+      "website": "",
+      "position": "Crew Member & Catechist Aide",
+      "startDate": "2014-01-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Assisted in Sunday School teaching for Grade 1 students by taking attendance, filing/scanning worksheets, distributing papers and other supplies,     helping students with their work",
+        "Expressed any concerns from students to teacher",
+        "Sanitized seating area after weekly 5 PM mass attendances and reorganized seating arrangements"
+      ]
+    },
+    {
+      "organization": "University of Hawaii- West Oahu",
+      "website": "",
+      "position": "Ho'opili Hou Conference Presenter",
+      "startDate": "2019-19-05",
+      "endDate": "",
+      "summary": "The Ho'opili Hou Leadership Conference was held at the University of Hawaii- West Oahu. During Spring 2019, I conducted a workshop seminar on overcoming adversity for students within the UH system.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Kauai Habitat for Humanity",
+      "website": "https://kauaihabitat.org/",
+      "position": "Volunteer member",
+      "startDate": "2019-17-01",
+      "endDate": "",
+      "summary": "For disaster and humanitarian relief",
+      "highlights": [
+        "Assisted with building the front steps for home construction, which was built for affordable housing purposes in the Lihue community"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Scholastic Honors Award",
+      "date": "2023-17-05",
+      "awarder": "LCC- Office of the Chancellor",
+      "summary": "Recognizes graduates with the highest Associate in Science grade point average."
+    }
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
