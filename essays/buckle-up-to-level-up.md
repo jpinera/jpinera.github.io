@@ -13,7 +13,7 @@ labels:
   - IntelliJ IDEA
 ---
 
-<img class="rounded float-start pe-4" width="450px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
+<img class="rounded float-start pe-4 img-fluid" width="450px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
 
 ## **New Territory**
 
@@ -116,7 +116,6 @@ Aside from the slight differences in font and spacing, the web pages look pretty
 
 Source code / Link to repository on GitHub: <a href="https://github.com/jpinera/hanatea-recreation" target="_blank">**Hana Tea Website Recreation with Bootstrap 5**</a>
 
-Recreated Website: <a href="http://localhost:63342/hanatea-recreation/index.html?_ijt=49ehjmavmfhl4cud0ah8onokug&_ij_reload=RELOAD_ON_SAVE" target="_blank">**Hana Tea Recreation Website (Bootstrap 5)**</a>
 
 ### Upon further Inspection, Inspection, Inspection…
 
@@ -177,7 +176,7 @@ Understanding the components to UI design and learning how to perform it well is
 
 ## **Still a Long Way to Go**
 
-<img align="right" width="250px"  src="../img/technical-essays/buckle-up-to-level-up/ui-design-4.jpeg" alt="ui-4">
+<img align="right"  class="rounded float-start ps-4" width="250px"  src="../img/technical-essays/buckle-up-to-level-up/ui-design-4.jpeg" alt="ui-4">
 
 As with anything, a lot of practice is needed to 1) develop more familiarity and 2) refine your expertise in a specific area. While there is still much more that I can learn in designing elements on webpages with a framework like Bootstrap 5, I feel like utilizing it is a step in the right direction to designs that are of high-quality. Perhaps using UI frameworks can not only improve designs, but can also enhance work flows for front-end development. This is beneficial in software engineering as a whole because teams can work more efficiently in the design process for projects. Similar to coding standards, UI frameworks provide consistent results, which allows teams to work effectively and in unity. The final version of the product or project will therefore look more polished and refined just from this consistency. However, this is merely my opinion from my experience…So what do you say? **_Buckle up to level up with Bootstrap 5!_**
 
