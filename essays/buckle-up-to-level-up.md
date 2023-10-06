@@ -33,6 +33,7 @@ Though I have not climbed any physical mountains in real life, I have experience
 
 ### Hours & Hours:
 
+
 Initially, I wasn’t in favor of using Bootstrap. The amount of time that I initially invested into learning its documentation didn’t seem to be all that worthwhile. I was mainly overwhelmed by the number of different classes that were made in Bootstrap to customize components. Looking at all the variations of a class for a specific element was also challenging because I couldn’t differentiate the purposes of each class variation. As an example, here are a couple of class options that you can utilize in Bootstrap when designing a _navigation bar element_:
 
 * <span style='font-family: monospace; color: #E685B5;' target='_blank'>**.navbar**</span> 
