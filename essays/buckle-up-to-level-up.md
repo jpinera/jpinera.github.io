@@ -15,15 +15,15 @@ labels:
 
 ## **New Territory**
 
-Web development just got a little more interesting for me… or so it seems that way. I have always been somewhat intrigued by front-end development, but haven’t really gotten the chance to actually learn it until now. With the help of this class, I was able to find out for sure. As someone who has had no prior web development experience, I wasn’t really sure what to expect. At first, learning the basics of coding with raw _Hypertext Markup Language_ (HTML) and _Cascading Style Sheets_ (CSS) to make webpages was definitely a brutal and tedious process. It made me question my abilities of designing a decent-looking layout and understanding how [<span style='font-family: monospace; color: ##87B2F3;' target='_blank'>**div**</span> elements](https://www.w3schools.com/tags/tag_div.ASP#:~:text=Definition%20and%20Usage,the%20class%20or%20id%20attribute.) worked. It also caused doubt on whether this was something I was actually interested in. However, at once, the practice of using a _user-interface_ (UI) framework to develop and recreate web pages from professional-looking websites has further piqued my interest in front-end work.
+Web development just got a little more interesting for me… or so it seems that way. I have always been somewhat intrigued by front-end development, but haven’t really gotten the chance to actually learn it until now. With the help of this class, I was able to find out for sure. As someone who has had no prior web development experience, I wasn’t really sure what to expect. At first, learning the basics of coding with raw _Hypertext Markup Language_ (HTML) and _Cascading Style Sheets_ (CSS) to make webpages was definitely a brutal and tedious process. It made me question my abilities of designing a decent-looking layout and understanding how [<span style='font-family: monospace; color: ##87B2F3;'>**div**</span> **elements**](https://www.w3schools.com/tags/tag_div.ASP#:~:text=Definition%20and%20Usage,the%20class%20or%20id%20attribute.) worked. It also caused doubt on whether this was something I was actually interested in. However, at once, the practice of using a _user-interface_ (UI) framework to develop and recreate web pages from professional-looking websites has further piqued my interest in front-end work.
 
 A web UI framework is a collection of design elements and components that are pre-built within as a default. These types of frameworks provide sets of CSS classes to elements in order to create a cleaner style in organizing web pages. From my experience so far, I have found these to be challenging and confusing at first, but rewarding and fulfilling long term. I noticed that UI frameworks can simplify the development process in trying to lay out all the components as desired. It can also provide a more aesthetically-pleasing look to the webpage. Most importantly, however, there is more consistency in the design over several browsers and across the different screen sizes of tech devices.
 
 ## **Taking UI Design to the Next Level**
 
-Over the past couple of weeks, I got to experience implementing a UI framework called [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/), which includes built-in CSS styles and _JavaScript_ (JS) components, to improve the design of websites. One of the main benefits for using Bootstrap is that it is centered around the idea of being “mobile-first.” This means that the default behavior for classes in Bootstrap revolves around formatting the display to the mobile environment. No customization or additional special code is required to redesign the intended UI and compensate for mobile-sized screens. Ultimately, the shift in a first-class mobile approach resolves the issue of coding the same application multiple times for the varying screen sizes and different operating systems between devices. Ultimately, the functionality embedded within UI frameworks like Bootstrap 5 is what makes it a highly versatile tool.
+Over the past couple of weeks, I got to experience implementing a UI framework called <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">**Bootstrap 5**</a>, which includes built-in CSS styles and _JavaScript_ (JS) components, to improve the design of websites. One of the main benefits for using Bootstrap is that it is centered around the idea of being “mobile-first.” This means that the default behavior for classes in Bootstrap revolves around formatting the display to the mobile environment. No customization or additional special code is required to redesign the intended UI and compensate for mobile-sized screens. Ultimately, the shift in a first-class mobile approach resolves the issue of coding the same application multiple times for the varying screen sizes and different operating systems between devices. Ultimately, the functionality embedded within UI frameworks like Bootstrap 5 is what makes it a highly versatile tool.
 
-### Climbing the mountain
+### Climbing the Mountain
 
 Though I have not climbed any physical mountains in real life, I have experienced the process of scaling the steep learning curve several times throughout my academic career. This time was no different from the others.  The following discusses my first thoughts and reactions to using Bootstrap 5.
 
@@ -42,21 +42,46 @@ Initially, I wasn’t in favor of using Bootstrap. The amount of time that I ini
 
 All of these options made the styling of elements difficult to understand.
 
-In addition to this, I realized that there were generally a lot more nested tags in my html file when working with the Bootstrap classes. The following shows a sample code of what this might look like in designing all of the elements of a full navigation bar at the top of a webpage.
-(SHOW CODE)
+In addition to this, I realized that there were generally a lot more nested tags in my html file when working with the Bootstrap classes. The following shows a sample code of what this might look like in designing all elements of a full navigation bar at the top of a webpage.
+
+```html
+<div class="px-0 justify-content-center pb-2 bg-light">
+  <div class="navbar">
+    <div class="container">
+      <ul class="nav justify-content-start">
+        <a class="navbar-brand" href="#">
+          <li class="nav-item">
+            <i class="bi bi-instagram"></i>
+          </li>
+        </a>
+      </ul>
+      <ul class="nav justify-content-center">
+        <li class="nav-item"><a class="navbar-brand" href="#">
+          <img src="boardroom-logo.png" alt="logo" width="70px">
+        </a></li>
+      </ul>
+      <ul class="nav justify-content-end">
+        <li class="nav-item">
+          <a class="navbar-brand" href="#"><button type="button" class="btn btn-dark">Menu</button></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+```
+
 As you can see, there is a lot to take in. Attempting to comprehend each pairing of these nested tags was an insurmountable headache. It was also complicated to originally figure out which Bootstrap class to use for each html tag and which HTML tag to wrap in for a specific element.
 
 The most troubling issue that I’ve encountered with Bootstrap so far is learning how to adjust the spacing and alignment of elements, containers, and text. I found that there are varying approaches to take when wanting to align a component in a specific way. The wide varying number of options to choose from is what made it difficult in learning how each class is used.
 
 Adding on, the main caveat to all of these choices is that the options you choose are dependent on the entity that needs to be aligned, as well as the size of the space that you are working with. There were times when using the align-items-center class did not vertically center the elements that I wanted mainly because the space of the row or container was not set to my desired height. I also thought that the difference between align-items and justify-content were troubling to distinguish between horizontal and vertical alignment. Using mx-auto and my-auto to center different forms of content, like images and text, didn’t seem to help with centering as well. Even though this was the case, however, I further realized that these classes only apply to the container’s position relative to the web page- not to the content within the container itself. In order to center the content, I would have to use other text alignment classes, like text-center. Furthermore, learning about flex-box utilities such as d-flex and flex-column added on to the mounting heap of aspects that I didn’t understand when it came down to fixing the positioning of such elements.
 
-Turning point
+## **Reaching a Turning Point**
 Although it seems like I’ve only had troubling issues and setbacks with Bootstrap, there are some positive takeaways that I can see today.
 
-Responsiveness
+### Responsiveness
 One of the main things that I first noticed is that elements would seamlessly adjust with the same relative scaling and positioning of the size of the screen. An example of this aspect can involve menu tabs in a navigation bar that merge into a dropdown menu when the size of the screen is shrinked or below a certain threshold of pixel width. I found this to be really neat and beneficial with web design because the main “theme” of the design can be reused across several platforms. The feature is very simple implementation-wise because unlike raw HTML and CSS, we don't need any additional code to consider the possible conditions of screen size. Thus, the responsive component that is functionally embedded within web UI frameworks like Bootstrap allowed me to appreciate the software more.
 
-The Upside of the Learning Curve
+### The Upside of the Learning Curve
 As I started to get more familiar with Bootstrap, I realized that it is helpful in learning the basic foundation of how a designed layout works. One of the layouts that I found to be valuable is the grid system (LINK) implementation. Learning about the grid structure allowed me to visualize different rows of elements because I was able to know the size of the containers. Resizing the height of these rows accordingly enabled me to fix other issues relating to text alignment on a web page. Within each row div, I was able to understand how the length and width of a certain number of columns can affect the spacing of any element. The grid layout also helped me to think more about designing content evenly through separate divisions (divs), so that elements can be more visually appealing and cohesive with one another.
 
 There are also many new elements that I have been able to style more simply with Bootstrap, as opposed to only CSS. Some of the components that I found to be useful include the buttons, navigation bar tabs, dropdown menus, and icons. The defaults for each of these components also come with different sets of customization options, such as changing colors or element sizes, which makes the intended effect much more easier to implement. The overall look and feel of the website can also match the designed layouts found on professional websites. As an example, here is an attempt to recreate Hana Tea’s (LINK) website. The left side of the image shows the original, while the right shows my recreation with Bootstrap.
