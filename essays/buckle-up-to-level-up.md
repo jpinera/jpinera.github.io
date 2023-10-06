@@ -13,7 +13,7 @@ labels:
   - IntelliJ IDEA
 ---
 
-<img class="rounded float-start pe-4" height="400px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
+<img class="rounded float-start pe-4" height="350px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
 
 ## **New Territory**
 
@@ -90,27 +90,37 @@ One of the main things that I first noticed is that elements would seamlessly ad
 ### The Upside of the Learning Curve
 As I started to get more familiar with Bootstrap, I realized that it is helpful in learning the basic foundation of how a designed layout works. One of the layouts that I found to be valuable is the <a href="https://getbootstrap.com/docs/5.3/layout/grid/" target="_blank">**grid system**</a> implementation. Learning about the grid structure allowed me to visualize different rows of elements because I was able to know the size of the containers. Resizing the height of these rows accordingly enabled me to fix other issues relating to text alignment on a web page. Within each row div, I was able to understand how the length and width of a certain number of columns can affect the spacing of any element. The grid layout also helped me to think more about designing content evenly through separate divisions (divs), so that elements can be more visually appealing and cohesive with one another.
 
-There are also many new elements that I have been able to style more simply with Bootstrap, as opposed to only CSS. Some of the components that I found to be useful include the buttons, navigation bar tabs, dropdown menus, and icons. The defaults for each of these components also come with different sets of customization options, such as changing colors or element sizes, which makes the intended effect much  easier to implement. The overall look and feel of the website can also match the designed layouts found on professional websites. As an example, here is an attempt to recreate <a href="https://www.hanatea808.com/" target="_blank">**Hana Tea's**</a> website. The left side of the image shows the original, while the right shows my recreation with Bootstrap.
+There are also many new elements that I have been able to style more simply with Bootstrap, as opposed to only CSS. Some of the components that I found to be useful include the buttons, navigation bar tabs, dropdown menus, and icons. The defaults for each of these components also come with different sets of customization options, such as changing colors or element sizes, which makes the intended effect much  easier to implement. The overall look and feel of the website can also match the designed layouts found on professional websites. As an example, here is an attempt to recreate <a href="https://www.hanatea808.com/" target="_blank">**Hana Tea's**</a> website. The first set of images show the original, while the second set show my recreation with Bootstrap.
 
 <div class="text-center" pe-4>
-    <p><strong>ORIGINAL:</strong> &nbsp;  <strong>RECREATION:</strong> </p>      
+    <strong>ORIGINAL:</strong>  
 </div> 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt1.png" class="img-thumbnail" >
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt1.png" class="img-thumbnail" >
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt1.png" class="img-thumbnail img-fluid" >
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt3.png" class="img-thumbnail img-fluid" >
+</div>
+
+<br/><br/>
+
+<div class="text-center" pe-4>
+    <strong>RECREATION:</strong>  
+</div> 
+
+<div class="text-center p-4">
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt1.png" class="img-thumbnail img-fluid" >
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt3.png" class="img-thumbnail img-fluid" >
 </div>
 
 Aside from the slight differences in font and spacing, the web pages look pretty similar. In general, by using Bootstrap, I would say that you can get an almost identical layout design that is found on other clean-looking websites. Thus, the initial investment has resulted in positive long term results for learning more about formatting components and web development.
+
+Source code / Link to repository on GitHub: <a href="https://github.com/jpinera/hanatea-recreation" target="_blank">**Hana Tea Website Recreation with Bootstrap 5**</a>
 
 ### Upon further Inspection, Inspection, Inspection…
 
 In addition to the grid system on Bootstrap, inspecting the elements via Chrome Developer Tools assisted in my comprehension for how containers worked. Viewing the Styles and Computed sections of the elements specifically allowed me to see the font families and font sizes used for a particular website. With Chrome Developer Tools, I was able to look at the margin and padding surrounding the content in each element. This enabled me to make quick adjustments when necessary. It also made me better grasp the concept of having every single component placed in its own box or container. As a result, element inspection facilitated my “debugging” process in terms of fixing the spacing between such elements. I could break down each individual aspect of a nested tag to fix the spacing accordingly, which allowed me to understand which Bootstrap classes to use for a specific HTML tag. I was also able to learn other techniques of formatting, such as overlapping images with text or creating a “tinted” background image via an overlayed mask of black transparent color.
 
-
-
-**Possible pic**
-
+<img align="center" width="400px"  class="img-fluid" src="../img/technical-essays/buckle-up-to-level-up/Inspect-elements.png" alt="inspect">
 
 
 ## **Comparing Bootstrap vs Raw HTML & CSS**
@@ -119,9 +129,29 @@ In addition to the grid system on Bootstrap, inspecting the elements via Chrome 
 
 I would definitely prefer to use Bootstrap over raw HTML and CSS styling because adjusting and customizing such styles is much easier to implement. Other reasons for my preference are indicated and mentioned above. The following images show a set example of producing similar web pages with just raw CSS and with Bootstrap.  
 
-**Pic of browser history and css comparison**
+<div class="text-center" pe-4>
+    <strong>Raw HTML & CSS:</strong>  
+</div> 
+
+<div class="text-center p-4">
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/browser-normal.png" class="img-thumbnail img-fluid" >
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/css-normal.png" class="img-thumbnail img-fluid" >
+</div>
+
+<br/><br/>
 
 A much more complicated stylesheet is needed to produce the same design when using raw HTML and CSS compared Bootstrap. This is because the style aspects of Bootstrap are initiated in the classes of the divs of the HTML file.
+
+<br/><br/>
+
+<div class="text-center" pe-4>
+    <strong>Bootstrap 5 Implementation:</strong>  
+</div> 
+
+<div class="text-center p-4">
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/browser-bootstrap.png" class="img-thumbnail img-fluid" >
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/css-bootstrap.png" class="img-thumbnail img-fluid" >
+</div>
 
 ## **On to the next step in the level?**
 
@@ -138,20 +168,9 @@ I don’t feel as comfortable as I would like with Bootstrap to advance to the n
 Understanding the components to UI design and learning how to perform it well is an important skill mainly because UI associates with the concept of User-Experience (UX). The main difference is that UI focuses on design, while UX focuses more on the overarching product via functional components. However, both aspects are needed to create a fully-operative website that is compelling, cohesive and effective in fulfilling a user’s needs or solving a problem. This is ultimately the next step towards covering the main basics of front-end web development.
 
 
-
 ## **Still a Long Way to Go**
 
 <img align="right" width="250px"  src="../img/technical-essays/buckle-up-to-level-up/ui-design-4.jpeg" alt="ui-4">
 
 As with anything, a lot of practice is needed to 1) develop more familiarity and 2) refine your expertise in a specific area. While there is still much more that I can learn in designing elements on webpages with a framework like Bootstrap 5, I feel like utilizing it is a step in the right direction to designs that are of high-quality. Perhaps using UI frameworks can not only improve designs, but can also enhance work flows for front-end development. This is beneficial in software engineering as a whole because teams can work more efficiently in the design process for projects. Similar to coding standards, UI frameworks provide consistent results, which allows teams to work effectively and in unity. The final version of the product or project will therefore look more polished and refined just from this consistency. However, this is merely my opinion from my experience…So what do you say? **_Buckle up to level up with Bootstrap 5!_**
-
-
-
-<p align="center">
-<img width="700px"  src="../img/technical-essays/JS-1/Arrow_operator2.png">
-</p>
-
-
-
-
 
