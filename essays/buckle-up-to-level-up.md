@@ -1,19 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript: Too Good To Be True??"
+title: "Buckle Up to Level-Up!"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-31
-published: false
+date: 2023-10-05
+published: true
 labels:
-  - JavaScript
-  - Coding
-  - Experimental
-  - Athletic Software Engineering
+  - Bootstrap 5
+  - UI / UX Design
+  - Web Development
+  - Front-end Engineering
+  - IntelliJ IDEA
 ---
 
-
-*My personal experience with learning JavaScript basics (Module 1) and the "Athletic" Software Engineering Model*
 
 <p align="center">
 <img width="1000px" class="img-fluid" src="../img/technical-essays/JS-1/JS_banner2.png">
