@@ -13,7 +13,7 @@ labels:
   - IntelliJ IDEA
 ---
 
-<img class="rounded float-start pe-4" width="350px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
+<img class="rounded float-start pe-4" width="400px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
 
 ## **New Territory**
 
@@ -23,7 +23,7 @@ A web UI framework is a collection of design elements and components that are pr
 
 
 
-<img width="370px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
+<img width="390px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
 
 ## **Taking UI Design to the Next Level**
 
