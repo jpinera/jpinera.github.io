@@ -21,9 +21,11 @@ Web development just got a little more interesting for me… or so it seems that
 
 A web UI framework is a collection of design elements and components that are pre-built within as a default. These types of frameworks provide sets of CSS classes to elements in order to create a cleaner style in organizing web pages. From my experience so far, I have found these to be challenging and confusing at first, but rewarding and fulfilling long term. I noticed that UI frameworks can simplify the development process in trying to lay out all the components as desired. It can also provide a more aesthetically-pleasing look to the webpage. Most importantly, however, there is more consistency in the design over several browsers and across the different screen sizes of tech devices.
 
-## **Taking UI Design to the Next Level**
 
-<img width="350px" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
+
+<img width="350px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
+
+## **Taking UI Design to the Next Level**
 
 Over the past couple of weeks, I got to experience implementing a UI framework called <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">**Bootstrap 5**</a>, which includes built-in CSS styles and _JavaScript_ (JS) components, to improve the design of websites. One of the main benefits for using Bootstrap is that it is centered around the idea of being “mobile-first.” This means that the default behavior for classes in Bootstrap revolves around formatting the display to the mobile environment. No customization or additional special code is required to redesign the intended UI and compensate for mobile-sized screens. Ultimately, the shift in a first-class mobile approach resolves the issue of coding the same application multiple times for the varying screen sizes and different operating systems between devices. Ultimately, the functionality embedded within UI frameworks like Bootstrap 5 is what makes it a highly versatile tool.
 
@@ -32,7 +34,6 @@ Over the past couple of weeks, I got to experience implementing a UI framework c
 Though I have not climbed any physical mountains in real life, I have experienced the process of scaling the steep learning curve several times throughout my academic career. This time was no different from the others.  The following discusses my first thoughts and reactions to using Bootstrap 5.
 
 ### Hours & Hours:
-
 
 Initially, I wasn’t in favor of using Bootstrap. The amount of time that I initially invested into learning its documentation didn’t seem to be all that worthwhile. I was mainly overwhelmed by the number of different classes that were made in Bootstrap to customize components. Looking at all the variations of a class for a specific element was also challenging because I couldn’t differentiate the purposes of each class variation. As an example, here are a couple of class options that you can utilize in Bootstrap when designing a _navigation bar element_:
 
@@ -103,9 +104,11 @@ In addition to the grid system on Bootstrap, inspecting the elements via Chrome 
 
 **Possible pic**
 
-<img width="300px" src="../img/technical-essays/buckle-up-to-level-up/compare-bs-html-2.jpeg" alt="compare">
+
 
 ## **Comparing Bootstrap vs Raw HTML & CSS**
+
+<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/compare-bs-html-2.jpeg" alt="compare">
 
 I would definitely prefer to use Bootstrap over raw HTML and CSS styling because adjusting and customizing such styles is much easier to implement. Other reasons for my preference are indicated and mentioned above. The following images show a set example of producing similar web pages with just raw CSS and with Bootstrap.  
 
@@ -131,7 +134,7 @@ Understanding the components to UI design and learning how to perform it well is
 
 ## **Still a Long Way to Go**
 
-<img align="right" width="250px"  src="../img/technical-essays/buckle-up-to-level-up/ui-design-4.jpeg" alt="">
+<img align="right" width="250px"  src="../img/technical-essays/buckle-up-to-level-up/ui-design-4.jpeg" alt="ui-4">
 
 As with anything, a lot of practice is needed to 1) develop more familiarity and 2) refine your expertise in a specific area. While there is still much more that I can learn in designing elements on webpages with a framework like Bootstrap 5, I feel like utilizing it is a step in the right direction to designs that are of high-quality. Perhaps using UI frameworks can not only improve designs, but can also enhance work flows for front-end development. This is beneficial in software engineering as a whole because teams can work more efficiently in the design process for projects. Similar to coding standards, UI frameworks provide consistent results, which allows teams to work effectively and in unity. The final version of the product or project will therefore look more polished and refined just from this consistency. However, this is merely my opinion from my experience…So what do you say? **_Buckle up to level up with Bootstrap 5!_**
 
