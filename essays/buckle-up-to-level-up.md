@@ -23,7 +23,7 @@ A web UI framework is a collection of design elements and components that are pr
 
 
 
-<img width="390px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
+<img width="300px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
 
 ## **Taking UI Design to the Next Level**
 
@@ -143,7 +143,7 @@ I would definitely prefer to use Bootstrap over raw HTML and CSS styling because
 
 <br/><br/>
 
-A much more complicated stylesheet is needed to produce the same design when using raw HTML and CSS compared Bootstrap. This is because the style aspects of Bootstrap are initiated in the classes of the divs of the HTML file.
+A much more complicated stylesheet is needed to produce the same design when using raw HTML and CSS compared to Bootstrap. This is because the style aspects of Bootstrap are initiated in the classes of the divs of the HTML file.
 
 <br/><br/>
 
