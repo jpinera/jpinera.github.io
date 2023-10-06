@@ -13,7 +13,7 @@ labels:
   - IntelliJ IDEA
 ---
 
-<img class="img-fluid" align="center" height="400px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
+<img class="rounded float-start pe-4" height="400px" src="../img/technical-essays/buckle-up-to-level-up/bootstrap-2.png" alt="logo">
 
 ## **New Territory**
 
@@ -23,7 +23,7 @@ A web UI framework is a collection of design elements and components that are pr
 
 
 
-<img width="350px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
+<img width="370px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/ui-design-1.jpeg" alt="ui-1"> 
 
 ## **Taking UI Design to the Next Level**
 
@@ -92,8 +92,14 @@ As I started to get more familiar with Bootstrap, I realized that it is helpful 
 
 There are also many new elements that I have been able to style more simply with Bootstrap, as opposed to only CSS. Some of the components that I found to be useful include the buttons, navigation bar tabs, dropdown menus, and icons. The defaults for each of these components also come with different sets of customization options, such as changing colors or element sizes, which makes the intended effect much  easier to implement. The overall look and feel of the website can also match the designed layouts found on professional websites. As an example, here is an attempt to recreate <a href="https://www.hanatea808.com/" target="_blank">**Hana Tea's**</a> website. The left side of the image shows the original, while the right shows my recreation with Bootstrap.
 
+<div class="text-center" pe-4>
+    <p><strong>ORIGINAL:</strong> &nbsp;  <strong>RECREATION:</strong> </p>      
+</div> 
 
-**Include image of hanatea recreation w/ Bootstrap**
+<div class="text-center p-4">
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt1.png" class="img-thumbnail" >
+  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt1.png" class="img-thumbnail" >
+</div>
 
 Aside from the slight differences in font and spacing, the web pages look pretty similar. In general, by using Bootstrap, I would say that you can get an almost identical layout design that is found on other clean-looking websites. Thus, the initial investment has resulted in positive long term results for learning more about formatting components and web development.
 
