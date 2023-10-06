@@ -97,8 +97,8 @@ There are also many new elements that I have been able to style more simply with
 </div> 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt1.png" class="img-fluid" alt="">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt3.png" class="img-fluid" alt="">
+  <a href="https://raw.githubusercontent.com/jpinera/hanatea-recreation/main/HanaTea-Website-Real-pt1.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt1.png" class="img-fluid" alt=""></a>
+  <a href="https://raw.githubusercontent.com/jpinera/hanatea-recreation/main/HanaTea-Website-Real-pt3.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/HanaTea-Website-Real-pt3.png" class="img-fluid" alt=""></a>
 </div>
 
 <br/><br/>
@@ -108,8 +108,8 @@ There are also many new elements that I have been able to style more simply with
 </div> 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt1.png" class="img-fluid" alt="">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt3.png" class="img-fluid" alt="">
+  <a href="https://raw.githubusercontent.com/jpinera/hanatea-recreation/main/Recreation-pt1.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt1.png" class="img-fluid" alt=""></a>
+  <a href="https://raw.githubusercontent.com/jpinera/hanatea-recreation/main/Recreation-pt3.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/Recreation-pt3.png" class="img-fluid" alt=""></a>
 </div>
 
 Aside from the slight differences in font and spacing, the web pages look pretty similar. In general, by using Bootstrap, I would say that you can get an almost identical layout design that is found on other clean-looking websites. Thus, the initial investment has resulted in positive long term results for learning more about formatting components and web development.
@@ -120,12 +120,15 @@ Source code / Link to repository on GitHub: <a href="https://github.com/jpinera/
 
 In addition to the grid system on Bootstrap, inspecting the elements via Chrome Developer Tools assisted in my comprehension for how containers worked. Viewing the Styles and Computed sections of the elements specifically allowed me to see the font families and font sizes used for a particular website. With Chrome Developer Tools, I was able to look at the margin and padding surrounding the content in each element. This enabled me to make quick adjustments when necessary. It also made me better grasp the concept of having every single component placed in its own box or container. As a result, element inspection facilitated my “debugging” process in terms of fixing the spacing between such elements. I could break down each individual aspect of a nested tag to fix the spacing accordingly, which allowed me to understand which Bootstrap classes to use for a specific HTML tag. I was also able to learn other techniques of formatting, such as overlapping images with text or creating a “tinted” background image via an overlayed mask of black transparent color.
 
-<img align="center" width="400px"  class="img-fluid" src="../img/technical-essays/buckle-up-to-level-up/Inspect-elements.png" alt="inspect">
+<p align="center">
+    <a href="https://raw.githubusercontent.com/jpinera/jpinera.github.io/main/img/technical-essays/buckle-up-to-level-up/Inspect-elements.png" target="_blank"><img width="400px"  class="img-fluid" src="../img/technical-essays/buckle-up-to-level-up/Inspect-elements.png" alt="inspect"></a>
+</p>
 
+<br>
 
 ## **Comparing Bootstrap vs Raw HTML & CSS**
 
-<img height="100px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/compare-bs-html-2.jpeg" alt="compare">
+<img height="70px" class="rounded float-start pe-4" src="../img/technical-essays/buckle-up-to-level-up/compare-bs-html-2.jpeg" alt="compare">
 
 I would definitely prefer to use Bootstrap over raw HTML and CSS styling because adjusting and customizing such styles is much easier to implement. Other reasons for my preference are indicated and mentioned above. The following images show a set example of producing similar web pages with just raw CSS and with Bootstrap.  
 
@@ -134,8 +137,8 @@ I would definitely prefer to use Bootstrap over raw HTML and CSS styling because
 </div> 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/browser-normal.png" class="img-fluid" alt="">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/css-normal.png" class="img-fluid" alt="">
+  <a href="https://raw.githubusercontent.com/jpinera/jpinera.github.io/main/img/technical-essays/buckle-up-to-level-up/browser-normal.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/browser-normal.png" class="img-fluid" alt=""></a>
+  <a href="https://raw.githubusercontent.com/jpinera/jpinera.github.io/main/img/technical-essays/buckle-up-to-level-up/css-normal.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/css-normal.png" class="img-fluid" alt=""></a>
 </div>
 
 <br/><br/>
@@ -149,8 +152,8 @@ A much more complicated stylesheet is needed to produce the same design when usi
 </div> 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/browser-bootstrap.png" class="img-fluid" alt="">
-  <img width="400px" src="../img/technical-essays/buckle-up-to-level-up/css-bootstrap.png" class="img-fluid" alt="">
+  <a href="https://raw.githubusercontent.com/jpinera/jpinera.github.io/main/img/technical-essays/buckle-up-to-level-up/browser-bootstrap.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/browser-bootstrap.png" class="img-fluid" alt=""></a>
+  <a href="https://raw.githubusercontent.com/jpinera/jpinera.github.io/main/img/technical-essays/buckle-up-to-level-up/css-bootstrap.png" target="_blank"><img width="400px" src="../img/technical-essays/buckle-up-to-level-up/css-bootstrap.png" class="img-fluid" alt=""></a>
 </div>
 
 ## **On to the next step in the level?**
