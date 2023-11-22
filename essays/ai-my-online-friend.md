@@ -136,7 +136,7 @@ should be included and allowed in classes
 learning resource, opens opportunity for more students to set-up for success not within the minimal subspace of the course itself but also in truly being able to practice 
 
 - balancing laziness morality w/ curious mindset
-- 
+
 ## **Conclusion**
 how you use it to your advantage, overusing it, will help complement jobs instead of overtake and replace them.
 over relying on it, learning becomes more linear and one dimensional, not as impactful as utilizing other tools and resources of education.
