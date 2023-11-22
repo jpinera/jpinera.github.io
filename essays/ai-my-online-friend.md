@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI: The Smartest Amongst All?"
+title: "AI: My Online Friend"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-21
 published: true
@@ -15,14 +15,16 @@ labels:
 *The following describes my personal experience with using AI specifically for learning in the classroom environment for ICS 314*
 
 <p align="center">
-<img width="1000px" class="img-fluid" src="../img/technical-essays/ai-the-smartest-amongst-all/robot-1.png">
+<img width="1000px" class="img-fluid" src="../img/technical-essays/ai-my-online-friend/robot-1.png">
 </p>
 
 ## **Introduction**
 
 As technology continues to develop overtime, our methods to studying or learning new material should also evolve as well. These methods should reflect such technological advancements, so that we can not only utilize it but also understand its effectiveness in the type of role or impact that it has on our society. In terms of the classroom learning environment specifically, our ability to learn has substantially been enhanced due to the wide range of opportunities that AI (Artificial Intelligence) has presented to us. 
 
+I have only began to The tools that I mainly used were ChatGPT and GitHub CoPilot. Overall, I found these to be very beneficial in assisting with several coding problems and 
 
+AI is often grouped with other , which given it a negative reputation for educational purposes. Though this is a fair statement, it limits the student's ability to learn in through a different number of ways as well. This limitation only promotes a certain way or style of learning, which is not favorable to students who don't thrive or benefit from that style. Learning is more than being in a linear structure. With the usage of ChatGPT,
 
 ## **Personal Experience with AI**
 
@@ -118,28 +120,8 @@ All of these options made the styling of elements difficult to understand.
 
 In addition to this, I realized that there were generally a lot more nested tags in my html file when working with the Bootstrap classes. The following shows a sample code of what this might look like in designing all elements of a full navigation bar at the top of a webpage.
 
-```html
+```javascript
 <div class="px-0 justify-content-center pb-2 bg-light">
-  <div class="navbar">
-    <div class="container">
-      <ul class="nav justify-content-start">
-        <a class="navbar-brand" href="#">
-          <li class="nav-item">
-            <i class="bi bi-instagram"></i>
-          </li>
-        </a>
-      </ul>
-      <ul class="nav justify-content-center">
-        <li class="nav-item"><a class="navbar-brand" href="#">
-          <img src="boardroom-logo.png" alt="logo" width="70px">
-        </a></li>
-      </ul>
-      <ul class="nav justify-content-end">
-        <li class="nav-item">
-          <a class="navbar-brand" href="#"><button type="button" class="btn btn-dark">Menu</button></a></li>
-      </ul>
-    </div>
-  </div>
 </div>
 ```
 
