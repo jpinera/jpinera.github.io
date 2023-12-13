@@ -18,7 +18,7 @@ labels:
 *My personal experience of learning software engineering fundamentals through ICS 314*
 
 <p align="center">
-<img width="1000px" class="img-fluid" src="../img/technical-essays/finding-potentional-in-swe/swe-stack.jpeg" alt="">
+    <img width="1000px" class="img-fluid" src="../img/technical-essays/finding-potentional-in-swe/swe-stack.jpeg" alt="">
 </p>
 
 
@@ -28,11 +28,14 @@ There is a common saying that all great things come from small beginnings.  This
 
 Which is why at the start of this Fall 2023 semester, I wasn’t really sure what software engineering was. I also didn’t really know what to expect, as I haven’t really been able to work on meaningful software-related projects that can enhance or showcase my skills. And so… ICS 314 was that first stepping stone in both my academic and software engineering journey. Though I’m not certain of what the future promises, I can firmly say that it is a step in the right direction of my goal to work in software development.
 
-<img width="300px"  class="rounded float-start pe-4" src="../img/technical-essays/finding-potentional-in-swe/swe-concepts.png" alt=""> 
+<img width="380px"  class="rounded float-start pe-4" src="../img/technical-essays/finding-potentional-in-swe/swe-concepts.png" alt=""> 
 
 During my experience in ICS 314, I have learned many new practices to help improve my abilities in web development. This not only includes the technical skills, but also the soft skills that can really play a part in team settings and work environments for positions in the computer science field. One of my biggest takeaways from this class is that the ability to work with a group on a common goal or project is a highly-valued skill, as you can better understand fundamental software principles from the help of peers and practice applying your knowledge into something tangible (aka. learning by doing!). Learning about software engineering conventions for the first time was a steep but necessary learning curve in forming basic technical capabilities. In general, however, I feel like I have gained a stronger understanding of some of the core concepts that software engineering entails. These include the following main areas:
 
-## **Configuration Management**
+<br>
+<br>
+
+## **Configuration Management (CM)**
 
 In the realm of software development, configuration management (CM) is a process that consistently manages the states and progress of projects. Having a good system to keep track of a project or product’s performance can definitely help maintain the organization and quality of the development process as a whole. Managing the layout or design of a system is also important in the aspect of trial testing and deploying the product. It helps make the design and organization process more effective because having effective CM can allow possible errors to easily be identified along the way. This speeds up the operations of planning and finding alternate solutions to these found problems. The approach to configuration management attempts to solve 3 conceptual problems that often occur when working on software projects:
 
@@ -42,16 +45,21 @@ In the realm of software development, configuration management (CM) is a process
 
 In addition, CM also relates to version control and defect tracking systems. Version control, which is the idea of keeping multiple versions of a certain software system, is necessary for revising and updating certain components of a project. Defect tracking systems help monitor the progressional status in the process, checking for any unwanted errors or changes to a specific version of a project. This is also a key component to CM because there is a cause-and-effect relationship between changes made to a system. Hence, the results of these changes might cause other unintended problems to occur, which then require more revisions in configuration.
 
+<p align="center">
+    <img width="400px" class="img-fluid" src="../img/technical-essays/finding-potentional-in-swe/github.png" alt="">
+</p>
+
 I was able to practice configuration management through a distributed CM workflow. This system works on the basis of copying and exchanging a person’s version of a project. Users make copies of another person’s version of a project to make their own personal updates. They can then send those changes back to the original person. The overall model consists of a “push-and-pull” technique, where developers pull or fetch changes made by other developers and push their changes to a main repository for other developers to possibly fetch from. This is usually done from a centralized master “branch,” which can represent the final polished version of a project.
 
-<img width="350px"  class="rounded float-start pe-4" src="../img/technical-essays/finding-potentional-in-swe/github.png" alt=""> 
 
 In my ICS 314 class, this was done through Git (version control management system) and GitHub. I found the idea of holding all aspects of a project in a GitHub repository to be very effective for organizing all of its contents. More importantly, the practice of using branches on GitHub was a very interesting approach. Having different branches allowed me to easily compare the different versions of a project, which facilitated the process of making decisions for a specific design or functional component. Cloning and updating changes via pulling and pushing to the main branch also made it efficient in collaborating with other peers, since incremental consistent updates can slowly build the ultimate vision of the desired outcome.
 
 One of the main things that helped me understand configuration management was the merging conflicts that occurred on GitHub. These merging conflicts usually occurred when multiple users edited the same line of the file while pushing their changes. Although it was very frustrating to have these conflicts at first, I was able to get more comfortable in fixing these issues. Due to the easy interface from GitHub Desktop, merge conflicts enabled me to recognize other possible implementation and design solutions that other peers had thought of. Therefore, I can see myself utilizing configuration management and using GitHub as a platform for future projects because it organizes the version history to maintain all of one’s progress. In the context of efficiency, being able to work on changes independently and locally are significant in making meaningful impact and advancements in the development process.
 
+<br>
+<br>
 
-## **User Interface Frameworks**
+## **User Interface (UI) Frameworks**
 
 In terms of web development, I have been able to improve my technical abilities in design through the concept of web frameworks. User-Interface (UI) frameworks are pre-built components or libraries that can help one design elements in a more aesthetic and efficient manner. Utilizing UI frameworks in product or project designs can overall make the display feel more professional and of higher quality. In addition to an attractive format, UI frameworks also simplify the development of coding the layout due to the approach of recycled material. UI frameworks allow developers to easily reuse components for creating interfaces. Since these elements are often intended to be implemented in a ready-to-use format, the default designs often contain a structure that is simple and neat. It also enables developers the freedom and flexibility to customize the basic makeup of a component to their intended theme, style or look. Furthermore, the benefit of UI frameworks also come with the purpose of creating a uniform theme and look throughout the project as a whole. This not only allows the project to feel cohesive in the layout throughout an application, but it also enables consistent results when being viewed across multiple browsers and varying media platforms or devices.
 
@@ -60,7 +68,7 @@ In terms of web development, I have been able to improve my technical abilities 
   <img width="300px" src="../img/technical-essays/finding-potentional-in-swe/React.jpeg" class="img-thumbnail" >
 </div>
 
-Throughout the semester, I have been able to work with UI frameworks, such as Bootstrap 5 and React, to efficiently design interfaces for web applications. I found Bootstrap and React to be very favorable frameworks due to the simplicity of their responsive designs. Simply put, I liked how these frameworks were mobile-first, which is the notion of automatically formatting designed elements to specific screen sizes without having to make any customizations. Due to React and Bootstrap’s mobile-first functionality, I could purely focus on the overall look of the layout of a web page without really having to consider how it would look differently on a tablet or phone.  Adding on to this, I found icons from Bootstrap 5 to be very useful in contingent with other navigation bar and other heading components. More importantly, however, I was able to use predefined React components to format elements in a more conventional and natural style. As someone who   
+Throughout the semester, I have been able to work with UI frameworks, such as Bootstrap 5 and React, to efficiently design interfaces for web applications. I found Bootstrap and React to be very favorable frameworks due to the simplicity of their responsive designs. Simply put, I liked how these frameworks were mobile-first, which is the notion of automatically formatting designed elements to specific screen sizes without having to make any customizations. Due to React and Bootstrap’s mobile-first functionality, I could purely focus on the overall look of the layout of a web page without really having to consider how it would look differently on a tablet or phone.  Adding on to this, I found icons from Bootstrap 5 to be very useful in contingent with other navigation bar and other heading components. More importantly, however, I was able to use predefined React components to format elements in a more conventional and natural style. As someone who has never worked with web development before, taking advantage of these preset components allowed me to not have to worry about the frequent nesting and formatting of raw HTML tags and heavy CSS styling. Some of the React components that I found to be useful include the buttons and nav bar dropdowns/links for specific designs to forms and the nav bar header respectively. I also found React Bootstrap's grid system to be efficient in dividing the elements evenly within a specific space of the body. The usage of these tags and properties aided my skills in readjust spacing or aligning issues because I was able to learn differences between margins and padding of elements more effectively. It also made customization easier through different types of variant property fields.       
 The following images show some examples of web pages that I helped to design using React and Bootstrap 5:
 
 <div class="text-center p-4">
@@ -72,15 +80,18 @@ The following images show some examples of web pages that I helped to design usi
 
 <div class="text-center pe-4" >
 
-_Home page of Sustainer web app final project (left) and home page of Hana Tea website recreation (right) using UI frameworks_
+**_Home page of Sustainer web app final project (left) and home page of Hana Tea website recreation (right) using UI frameworks_**
 
 </div> 
 
+I overall feel like a UI frameworks is a crucial aspect to creating clean designs in app interfaces. It creates both a consistent and simple look for a block-style (linK) format. I find this to be very applicable to future projects, specifically towards the front-end development procedures. Though I might not use the same frameworks in the future, I think that understanding how UI frameworks work can definitely assist in producing designs efficiently and portraying specific themes. On a broader, more conceptual level, user-interface frameworks speed up the development and decision-making process of design choices, since time won't be wasted on recoding layouts or elements to look a specific way based on screen size.
+
+<br>
 <br>
 
 <img align="right"  class="rounded ps-4" width="250px"  src="../img/technical-essays/finding-potentional-in-swe/swe-background.png" alt="">
 
 ## Looking Towards the Future
 
-In general, learning these foundational software engineering principles has allowed me to get a better perspective. Potential in job market and practices, ever growing field of computer science and software development. Looking to develop/refine more skills and move forward to ics 414these In the end, only time will tell.
+In general, learning these foundational software engineering principles has allowed me to get a better perspective on what . Potential in job market and practices, ever growing field of computer science and software development. Looking to develop/refine more skills and move forward to ics 414these In the end, only time will tell.
 
