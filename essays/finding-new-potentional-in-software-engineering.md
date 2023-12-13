@@ -26,9 +26,11 @@ labels:
 
 There is a common saying that all great things come from small beginnings.  This is something that I have always considered and believed in. It is true that not everyone becomes an expert overnight, and while pure talent may beat out hard work, it is eventually the slow growth of knowledge and skills that shapes an expert into a master of their own craft overtime. The repetitive cycle of practicing, failing, learning, and redoing ultimately help us to advance in our “expertise status” through small baby steps, one step at a time. It is these combinations of elements that help us to define and refine our skills in our set of tools. Like an artist eagerly painting their canvas or a farmer fervently planting their crops, the right tools need to be utilized correctly and consistently resharpened to perform their desires, in which eventually, their progress will reveal their masterpiece and reap their harvest. In other words, though developing a true skill takes time, everyone has their own starting point and must start from somewhere….
 
+<img width="400px"  class="rounded float-start pe-4" src="../img/technical-essays/finding-potentional-in-swe/swe-concepts.png" alt=""> 
+
+
 Which is why at the start of this Fall 2023 semester, I wasn’t really sure what software engineering was. I also didn’t really know what to expect, as I haven’t really been able to work on meaningful software-related projects that can enhance or showcase my skills. And so… ICS 314 was that first stepping stone in both my academic and software engineering journey. Though I’m not certain of what the future promises, I can firmly say that it is a step in the right direction of my goal to work in software development.
 
-<img width="380px"  class="rounded float-start pe-4" src="../img/technical-essays/finding-potentional-in-swe/swe-concepts.png" alt=""> 
 
 During my experience in ICS 314, I have learned many new practices to help improve my abilities in web development. This not only includes the technical skills, but also the soft skills that can really play a part in team settings and work environments for positions in the computer science field. One of my biggest takeaways from this class is that the ability to work with a group on a common goal or project is a highly-valued skill, as you can better understand fundamental software principles from the help of peers and practice applying your knowledge into something tangible (aka. learning by doing!). Learning about software engineering conventions for the first time was a steep but necessary learning curve in forming basic technical capabilities. In general, however, I feel like I have gained a stronger understanding of some of the core concepts that software engineering entails. These include the following main areas:
 
@@ -69,22 +71,26 @@ In terms of web development, I have been able to improve my technical abilities 
 </div>
 
 Throughout the semester, I have been able to work with UI frameworks, such as Bootstrap 5 and React, to efficiently design interfaces for web applications. I found Bootstrap and React to be very favorable frameworks due to the simplicity of their responsive designs. Simply put, I liked how these frameworks were mobile-first, which is the notion of automatically formatting designed elements to specific screen sizes without having to make any customizations. Due to React and Bootstrap’s mobile-first functionality, I could purely focus on the overall look of the layout of a web page without really having to consider how it would look differently on a tablet or phone.  Adding on to this, I found icons from Bootstrap 5 to be very useful in contingent with other navigation bar and other heading components. More importantly, however, I was able to use predefined React components to format elements in a more conventional and natural style. As someone who has never worked with web development before, taking advantage of these preset components allowed me to not have to worry about the frequent nesting and formatting of raw HTML tags and heavy CSS styling. Some of the React components that I found to be useful include the buttons and nav bar dropdowns/links for specific designs to forms and the nav bar header respectively. I also found React Bootstrap's grid system to be efficient in dividing the elements evenly within a specific space of the body. The usage of these tags and properties aided my skills in readjust spacing or aligning issues because I was able to learn differences between margins and padding of elements more effectively. It also made customization easier through different types of variant property fields.       
+
 The following images show some examples of web pages that I helped to design using React and Bootstrap 5:
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/technical-essays/finding-potentional-in-swe/ui-sustainer2.png" class="img-fluid" alt="">
-    <img width="600px" src="../img/technical-essays/finding-potentional-in-swe/Recreation-pt1.png" class="img-fluid" alt="">
+  <img width="700px" src="../img/technical-essays/finding-potentional-in-swe/ui-sustainer2.png" class="img-fluid" alt="">
+    <img width="700px" src="../img/technical-essays/finding-potentional-in-swe/Recreation-pt1.png" class="img-fluid" alt="">
 </div>
 
 
 
 <div class="text-center pe-4" >
 
-**_Home page of Sustainer web app final project (left) and home page of Hana Tea website recreation (right) using UI frameworks_**
+<i>Home page of Sustainer web app final project (left) and home page of Hana Tea website recreation (right) using UI frameworks
+</i>
 
 </div> 
 
-I overall feel like a UI frameworks is a crucial aspect to creating clean designs in app interfaces. It creates both a consistent and simple look for a block-style (linK) format. I find this to be very applicable to future projects, specifically towards the front-end development procedures. Though I might not use the same frameworks in the future, I think that understanding how UI frameworks work can definitely assist in producing designs efficiently and portraying specific themes. On a broader, more conceptual level, user-interface frameworks speed up the development and decision-making process of design choices, since time won't be wasted on recoding layouts or elements to look a specific way based on screen size.
+<br>
+
+I overall feel like a UI frameworks is a crucial aspect to creating clean designs in app interfaces. It creates both a consistent and simple look for a block-style format. I find this to be very applicable to future projects, specifically towards the front-end development procedures. Though I might not use the same frameworks in the future, I think that understanding how UI frameworks work can definitely assist in producing designs efficiently and portraying specific themes. On a broader, more conceptual level, user-interface frameworks speed up the development and decision-making process of design choices, since time won't be wasted on recoding layouts or elements to look a specific way based on screen size.
 
 <br>
 <br>
@@ -93,5 +99,5 @@ I overall feel like a UI frameworks is a crucial aspect to creating clean design
 
 ## Looking Towards the Future
 
-In general, learning these foundational software engineering principles has allowed me to get a better perspective on what . Potential in job market and practices, ever growing field of computer science and software development. Looking to develop/refine more skills and move forward to ics 414these In the end, only time will tell.
+In general, learning these foundational software engineering principles has allowed me to get a better perspective on what software development is all about. Taking ICS 314 has not only allowed to get an ideal taste of common practical procedures in a possible workplace setting for development, but it has also allowed me to unlock new interests in the different aspects of software engineering. From this, I have realized that there is much more grown potential through a variety of jobs in the rapidly growing field of computer science. I look forward to developing and refining my skill sets by taking the next step toward advanced software engineering concepts through ICS 414. I'm not too certain if I'll end up working in software development, but like an artist's and farmer's work, the journey towards the vision takes time. Even though time is a deciding factor, I've realized that appreciating the journey is part of this process ... _But truly in the end, only time will tell._
 
