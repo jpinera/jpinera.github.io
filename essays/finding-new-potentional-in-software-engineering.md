@@ -27,7 +27,7 @@ labels:
 
 There is a common saying that all great things come from small beginnings.  This is something that I have always considered and believed in. It is true that not everyone becomes an expert overnight, and while pure talent may beat out hard work, it is eventually the slow growth of knowledge and skills that shapes an expert into a master of their own craft overtime. The repetitive cycle of practicing, failing, learning, and redoing ultimately help us to advance in our “expertise status” through small baby steps, one step at a time. It is these combinations of elements that help us to define and refine our skills in our set of tools. Like an artist eagerly painting their canvas or a farmer fervently planting their crops, the right tools need to be utilized correctly and consistently resharpened to perform their desires, in which eventually, their progress will reveal their masterpiece and reap their harvest. In other words, though developing a true skill takes time, everyone has their own starting point and must start from somewhere….
 
-<img width="420px"  class="rounded float-start pe-3" src="../img/technical-essays/finding-potentional-in-swe/sw e-concepts.png" alt=""> 
+<img width="420px"  class="rounded float-start pe-3" src="../img/technical-essays/finding-potentional-in-swe/swe-concepts.png" alt=""> 
 
 
 Which is why at the start of this Fall 2023 semester, I wasn’t really sure what software engineering was. I also didn’t really know what to expect, as I haven’t really been able to work on meaningful software-related projects that can enhance or showcase my skills. And so… ICS 314 was that first stepping stone in both my academic and software engineering journey. Though I’m not certain of what the future promises, I can firmly say that it is a step in the right direction of my goal to work in software development.
@@ -40,7 +40,7 @@ During my experience in ICS 314, I have learned many new practices to help impro
 
 ## **Configuration Management (CM)**
 
-<img width="410px"  class="rounded float-start pe-4 img-fluid" src="../img/technical-essays/finding-potentional-in-swe/devops.png" alt=""> 
+<img width="430px"  class="rounded float-start pe-4 img-fluid" src="../img/technical-essays/finding-potentional-in-swe/devops.png" alt=""> 
 
 In the realm of software development, configuration management (CM) is a process that consistently manages the states and progress of projects. Having a good system to keep track of a project or product’s performance can definitely help maintain the organization and quality of the development process as a whole. Managing the layout or design of a system is also important in the aspect of trial testing and deploying the product. It helps make the design and organization process more effective because having effective CM can allow possible errors to easily be identified along the way. This speeds up the operations of planning and finding alternate solutions to these found problems. The approach to configuration management attempts to solve 3 conceptual problems that often occur when working on software projects:
 
@@ -78,7 +78,7 @@ Throughout the semester, I have been able to work with UI frameworks, such as <a
 The following images show some examples of web pages that I helped to design using React and Bootstrap 5:
 
 <div class="text-center p-4">
-  <img width="6250px" src="../img/technical-essays/finding-potentional-in-swe/ui-sustainer2.png" class="img-fluid" alt="">
+  <img width="625px" src="../img/technical-essays/finding-potentional-in-swe/ui-sustainer2.png" class="img-fluid" alt="">
     <img width="625px" src="../img/technical-essays/finding-potentional-in-swe/Recreation-pt1.png" class="img-fluid" alt="">
 </div>
 
