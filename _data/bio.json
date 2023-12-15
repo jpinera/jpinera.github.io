@@ -3,7 +3,7 @@
     "name": "Jaren Pinera",
     "label": "Student",
     "picture": "https://github.com/jpinera.png",
-    "email": "jpinera@hawaii.edu",
+    "email": ["jpinera@hawaii.edu", "jarenpinera@gmail.com"],
     "website": "https://jpinera.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I aspire to become front-end engineer for gaming or media companies.",
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
@@ -100,7 +100,7 @@
       "organization": "University of Hawaii- West Oahu",
       "website": "",
       "position": "Ho'opili Hou Conference Presenter",
-      "startDate": "2019-19-05",
+      "startDate": "May 2019",
       "endDate": "",
       "summary": "The Ho'opili Hou Leadership Conference was held at the University of Hawaii- West Oahu. During Spring 2019, I conducted a workshop seminar on overcoming adversity for students within the UH system.",
       "highlights": [
@@ -110,7 +110,7 @@
       "organization": "Kauai Habitat for Humanity",
       "website": "https://kauaihabitat.org/",
       "position": "Volunteer member",
-      "startDate": "2019-17-01",
+      "startDate": "January 2019",
       "endDate": "",
       "summary": "For disaster and humanitarian relief",
       "highlights": [
@@ -121,7 +121,7 @@
   "awards": [
     {
       "title": "Scholastic Honors Award",
-      "date": "2023-17-05",
+      "date": "May 2023",
       "awarder": "LCC- Office of the Chancellor",
       "summary": "Recognizes graduates with the highest Associate in Science grade point average."
     }
