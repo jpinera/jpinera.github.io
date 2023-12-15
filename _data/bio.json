@@ -3,7 +3,7 @@
     "name": "Jaren Pinera",
     "label": "Student",
     "picture": "https://github.com/jpinera.png",
-    "email": ["jpinera@hawaii.edu", "jarenpinera@gmail.com"],
+    "email": "jpinera@hawaii.edu",
     "website": "https://jpinera.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I aspire to become front-end engineer for gaming or media companies.",
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
