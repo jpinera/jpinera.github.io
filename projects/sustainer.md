@@ -22,18 +22,18 @@ summary: "A web app that monitors and keeps track of reusable containers at larg
 Sustainer was the final project developed in my ICS 314 class, which focus on understanding software engineering fundamentals and developing proper development practices. The project consisted of 5 group members, each with our own distinct roles and tasks in order to complete a functional,full stack application. More details are provided below. 
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/own-projects/sustainer-web-app/sustainer-home-page.png" class="img-thumbnail" >
+  <img width="650px" src="../img/own-projects/sustainer-web-app/sustainer-home-page.png" class="img-thumbnail" >
 </div>
 
 ## Project Overview & Details
 
-I was responsible for designing and implementing the GUI in this project. This consisted of creating a sketch of the envisioned interface, deciding the size restrictions of the elements and overall window panel, choosing a fitting color scheme for the buttons, and checking the win conditions of the game. 
 
-Upon entering the game, the left panel contains a choice of 3 buttons of where the user can either learn how to play the game, play the game (after playing at least one time), or quit the game. A bottom-middle panel of options is displayed for the user to pick their choice of rock, paper, or scissors. The bottom left panel contains a score counter for the number of times that a user has won, lost, or tied the game. 
 
 Once the user has chosen an option, the computer will randomly make a choice and a text bubble will display the result of the game. In addition, the score counter will update based on the results. The user can then hit **Play Again** to play more games. The picture below shows an example of the user playing through the game and the implemented GUI.
 
 ## Roles & Contributions
+
+I was responsible for designing and implementing the GUI in this project. This consisted of creating a sketch of the envisioned interface, deciding the size restrictions of the elements and overall window panel, choosing a fitting color scheme for the buttons, and checking the win conditions of the game.
 
 <img class="img-fluid" src="../img/own-projects/RPS-game/rps_game.png" alt="">
 
