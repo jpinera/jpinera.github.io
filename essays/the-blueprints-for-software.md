@@ -4,7 +4,7 @@ type: essay
 title: "The Blueprints for Software"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-30
-published: true
+published: false
 labels:
   - Design Patterns
   - Observers
