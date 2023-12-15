@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/jpinera.png",
     "email": "jpinera@hawaii.edu",
-    "phone": "808-725-8142",
     "website": "https://jpinera.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I aspire to become front-end engineer for gaming or media companies.",
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
@@ -39,7 +38,7 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses":  [ "Math 307"
+      "courses":  [ "Math 307", "ICS 311","ICS 314"
       ]
     },
     {
@@ -48,7 +47,7 @@
       "studyType": "A.S.",
       "startDate": "2020",
       "endDate": "2022",
-      "courses": ["ICS 110P", "ICS 111", "ICS 141", "ICS 211", "ICS 212", "ICS 241"] 
+      "courses": ["ICS 110P", "ICS 111", "ICS 141", "ICS 211", "ICS 212", "ICS 241"]
     }
   ],
   "work": [
@@ -60,7 +59,7 @@
       "endDate": "Present",
       "summary": "Grades papers and tutors students for Math 307 course.",
       "highlights": [
-        "Assists students in linear algebra and differential equations courses", 
+        "Assists students in linear algebra and differential equations courses",
         "Corrects homework problem sets, quizzes, and midterm exams",
         "Picks up and returns corrected material to professor within specified time limit"
       ]

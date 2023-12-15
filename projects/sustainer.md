@@ -19,7 +19,11 @@ labels:
 summary: "A web app that monitors and keeps track of reusable containers at large public events."
 ---
 
-Sustainer was the final project developed in my software engineering ICS 314 class. The project consisted of 5 group members, each with our own distinct roles and tasks in order to complete a functional,full stack application. More details are provided below. 
+Sustainer was the final project developed in my ICS 314 class, which focus on understanding software engineering fundamentals and developing proper development practices. The project consisted of 5 group members, each with our own distinct roles and tasks in order to complete a functional,full stack application. More details are provided below. 
+
+<div class="text-center p-4">
+  <img width="500px" src="../img/own-projects/sustainer-web-app/sustainer-home-page.png" class="img-thumbnail" >
+</div>
 
 ## Project Overview & Details
 
