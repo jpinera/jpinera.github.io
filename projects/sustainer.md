@@ -19,7 +19,9 @@ labels:
 summary: "A web app that monitors and keeps track of reusable containers at large public events."
 ---
 
-Sustainer was the final project developed in my ICS 314 class, which focus on understanding software engineering fundamentals and developing proper development practices. The project consisted of 5 group members, each with our own distinct roles and tasks in order to complete a functional,full stack application. More details are provided below. 
+## Background Information
+
+Sustainer was the final project developed in my ICS 314 class, which focuses on understanding software engineering fundamentals and developing proper development practices. The project consisted of 5 group members, each with our own distinct roles and tasks in order to complete a functional,full stack application. More details are provided below. 
 
 <div class="text-center p-4">
   <img width="650px" src="../img/own-projects/sustainer-web-app/sustainer-home-page.png" class="img-thumbnail" >
@@ -27,13 +29,22 @@ Sustainer was the final project developed in my ICS 314 class, which focus on un
 
 ## Project Overview & Details
 
+Sustainer is a web app that allows easy access to rent and keep track of containers at large public events. The idea behind this app is to support a circular economic system when consumers order food at food trucks and other vendor locations. This is proposed through the implementation of using reusable containers at events, such that users can return these containers after eating their food. <a href="https://www.zerowasteoahu.org/" target="_blank">**Zero Waste Oahu**</a> (ZWO) is a nonprofit organization that has promoted this idea for a cleaner and stronger impact on the environment. The main problem, however, is that ZWO only receives a 60% return rate for these reusable containers at public events, which include beach cleanups, farmers market shops, and other fundraisers. As a result, it is very difficult to continue reusing these containers for future events when not all of them are being properly returned. 
 
+Sustainer aims to solve this problem by holding users accountable for containers that aren't returned via a collateral-accountability system. The app also allows members of the ZWO organization to keep track of any containers that are in use, or have been returned, by users. Doing so will keep the environment sustainable on the community level. It will also help improve the economic system that is envisioned by ZWO. 
 
-Once the user has chosen an option, the computer will randomly make a choice and a text bubble will display the result of the game. In addition, the score counter will update based on the results. The user can then hit **Play Again** to play more games. The picture below shows an example of the user playing through the game and the implemented GUI.
+The overall solution revolves around the concept of "transferring ownership" of the reusable containers throughout the process or cycle of ordering food at an event. In order to uniquely identify users, QR codes are created from a consumer's personal account. Upon ordering takeout from a vendor, users will scan their QR ID. Vendors will then scan the container with their food to link the associated container to that specific user. Users will then return the container in an appropriate ZWO bin. At the end of the event, organizers will scan these containers back in to reassign the container to admin owners. Containers that are still associated with a user or unaccounted for will charge the user a certain flat fee of $5 per container. Therefore, the app is  intended for 3 main audiences and consists of the following purposeful functions:
+* <span style='font-family: monospace; color: #red;' target='_blank'>**Users**</span>: Create an account to get their QR Code and link a payment method as collateral
+* Vendors: Order containers from ZWO for specific events and view the inventory of containers. Scanning of containers for ownership can also be done here.
+* Admin / Moderators: Scan and check containers back in. S
+
+In terms of the technological toolsets, 
+You can view and test out 
+
 
 ## Roles & Contributions
 
-I was responsible for designing and implementing the GUI in this project. This consisted of creating a sketch of the envisioned interface, deciding the size restrictions of the elements and overall window panel, choosing a fitting color scheme for the buttons, and checking the win conditions of the game.
+I was mainly responsible for designing and implementing the GUI in this project. This consisted of creating a sketch of the envisioned interface, deciding the size restrictions of the elements and overall window panel, choosing a fitting color scheme for the buttons, and checking the win conditions of the game.
 
 <img class="img-fluid" src="../img/own-projects/RPS-game/rps_game.png" alt="">
 
@@ -47,6 +58,11 @@ When the user decides to stop playing and quits by hitting the **Quit** button, 
 
 From this project, I was able to further my knowledge on how object-oriented programming (OOP) works. This project allowed me to practice the employment of creating private object classes and using its methods to create the main back-end frame of the game. I learned that the process of adjusting the pixel width of image icons and the dimensions of the borders in panel elements of the interface can be quite time-consuming in order to create a cohesive and aesthetic-looking GUI. I also enhanced my learning in technical aspects, such as learning how to read/write to a file and set graphical elements with the Java Swing and AWT libraries. More importantly, however, I got to experience the entire of process of creating an entire project, all of which included planning, designing, programming, testing, and implementing the code for the RPS game.
 
+This project was presented at the 2023 <a href="https://www.zerowasteoahu.org/" target="_blank">**Hawaii Annual Coding Challenge**</a> (HACC) for the unique solution that our team had come up with. I found 
+
+### Improving the App
+
+Definitely some improvements.
 <br>
 <hr>
 
@@ -54,4 +70,4 @@ From this project, I was able to further my knowledge on how object-oriented pro
 
 * View our deployed app: <a href="https://sustainer.online/" target="_blank">**Sustainer**</a>
 * View our source code: <a href="https://github.com/sus-tainer/sustainer" target="_blank">**Repository on GitHub**</a>
-* Read more about our project: <a href="https://sus-tainer.github.io/" target="_blank">**Project Documentation & Background Information**</a>
+* Read more about our project: <a href="https://sus-tainer.github.io/" target="_blank">**Organization Home Page & Project Documentation**</a>
