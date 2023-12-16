@@ -35,11 +35,12 @@ Sustainer aims to solve this problem by holding users accountable for containers
 
 The overall solution revolves around the concept of "transferring ownership" of the reusable containers throughout the process or cycle of ordering food at an event. In order to uniquely identify users, QR codes are created from a consumer's personal account. Upon ordering takeout from a vendor, users will scan their QR ID. Vendors will then scan the container with their food to link the associated container to that specific user. Users will then return the container in an appropriate ZWO bin. At the end of the event, organizers will scan these containers back in to reassign the container to admin owners. Containers that are still associated with a user or unaccounted for will charge the user a certain flat fee of $5 per container. Therefore, the app is  intended for 3 main audiences and consists of the following purposeful functions:
 * <span style='font-family: monospace; color: #red;' target='_blank'>**Users**</span>: Create an account to get their QR Code and link a payment method as collateral
-* Vendors: Order containers from ZWO for specific events and view the inventory of containers. Scanning of containers for ownership can also be done here.
-* Admin / Moderators: Scan and check containers back in. S
+* <span style='font-family: monospace; color: #red;' target='_blank'>**Vendors**</span>: Order containers from ZWO for specific events and view the inventory of containers. Scanning of containers for ownership can also be done here.
+* <span style='font-family: monospace; color: #red;' target='_blank'>**Admin / Moderators**</span>: Scan and check containers back in. There are also options to charge a user for a container and add new containers to the database.
 
-In terms of the technological toolsets, 
-You can view and test out 
+In terms of the technological toolsets, the app uses Meteor as the main stack for our web app development framework. React Bootstrap was used as UI frameworks for front-end development. JavaScript was the programming language used for coding, along with React hooks to add functionalities and enhance the user interaction experience (UX) on the website. IntelliJ Idea was used as the coding enviroment, with 
+
+You can view and test out our deployed app <a href="https://sustainer.online/" target="_blank">**here**</a>. _However, please note that as of February 2024, the app may be unavailable due to the removal of the deployed servers_. In this case, please see the **Download and Installation** section in the  <a href="https://sus-tainer.github.io/#installation" target="_blank">**documentation here**</a> to run the app locally.
 
 
 ## Roles & Contributions
