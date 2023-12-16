@@ -43,16 +43,24 @@ You can view and test out our deployed app <a href="https://sustainer.online/" t
 
 ## Roles & Contributions
 
-I was mainly responsible for designing and implementing the GUI in this project. This consisted of creating a sketch of the envisioned interface, deciding the size restrictions of the elements and overall window panel, choosing a fitting color scheme for the buttons, and checking the win conditions of the game.
+I was mainly responsible for designing the general data model and structure for the backend portion of our app. This included coming up with proper relational databases and tables to accurately pull data from. I initially encountered setbacks in how the transfer of ownership would work with the reusable containers. It was difficult to consider how to link or associate the containers to a specific user's QR and payment method. A workaround for this involved the creation of joined collections between a container and its owner of a consumer, admin, or vendor respectively. Ultimately, however, our team decided to create customized roles in the default <a href="https://guide.meteor.com/accounts" target="_blank">**Meteor Accounts**</a> collection to associate a user with a container. By assigning roles in this way, ownership can be easily updated in the collection through customized Meteor methods and React hooks. After creating the initial data model, I then worked on establishing the proper publications and subscriptions for MongoDB/ Minimongo to fetch or pull from on both the server and client sides respectively. From there, I made sure that all functionalities and routes were correct in our web pages by implementing test pages via TestCafe. This can be seen via our **continous integration** badge in the documentation at the bottom of this page. After working on these issues, I set up and monitored the deployment of our app using Digital Ocean.
+
+On a more functional and implementation standpoint, I also helped with properly listing the data from the database in the form of tables. These include the "Containers List" page and "Approve Vendor Orders" page for administrators, as well as the "List Vendor Orders" page for vendors. These pages show all the available containers at a specific event, a verification for pending orders, and a "purchase" history of orders accordingly. I first started by subscribing to the proper publication to fetch the necessary data. I then used React Bootstrap tags and Bootstrap icons to display the wanted information. 
+
+For pages dealing with vendor orders, I later incorporated an approval status element, so that vendors can visually know if an admin has approved their order of containers. From there, I worked on correctly implementing a submit function that will update the status if edits are made to an existing order, or if new orders are created. 
+
+In the Containers List page, I utilized a graph library to display a visual pie chart graphic of the container retention rate. I also found some appropriate graphics that dynamically adjusts to the retention percentage. Ultimately, I think that adding this graphic made the page more user-friendly in displaying the information for admin users.
+
+Here are some screenshots to some of the pages that I contributed to:
 
 <p align="center">
-<img width="1000px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-admin-list.png" alt="react">
+<img width="600px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-approve-vendor.png" alt="">
+<img width="600px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-pending-vendor.png" alt="">
 <br>
 <br>
 <br>
 <br>
-<img width="600px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-approve-vendor.png" alt="react">
-<img width="600px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-pending-vendor.png" alt="react">
+<img width="1000px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-admin-list.png" alt="">
 </p>
 
 <br>
@@ -60,15 +68,16 @@ I was mainly responsible for designing and implementing the GUI in this project.
 
 ## Learning Points from Project
 
-This project was presented at the 2023 <a href="https://www.zerowasteoahu.org/" target="_blank">**Hawaii Annual Coding Challenge**</a> (HACC) for the unique solution that our team had come up with. I found
+This project was presented at the 2023 <a href="https://www.zerowasteoahu.org/" target="_blank">**Hawaii Annual Coding Challenge**</a> (HACC) for the unique solution that our team had come up with. Although our team didn't end up winning the challenge, I found the whole process of designing, implementing, and presenting our solution to be a good experience. I look forward to participating in more similar coding challenges in the near future, in order to advance both my technical skills and problem-solving abilities for real-world issues. This project also emphasized the importance of working effectively in a group setting, which helped me acquire new knowledge of team-building and communication aspects.
 
-From this project, I was able to further my knowledge on how object-oriented programming (OOP) works. This project allowed me to practice the employment of creating private object classes and using its methods to create the main back-end frame of the game. I learned that the process of adjusting the pixel width of image icons and the dimensions of the borders in panel elements of the interface can be quite time-consuming in order to create a cohesive and aesthetic-looking GUI. I also enhanced my learning in technical aspects, such as learning how to read/write to a file and set graphical elements with the Java Swing and AWT libraries. More importantly, however, I got to experience the entire of process of creating an entire project, all of which included planning, designing, programming, testing, and implementing the code for the RPS game.
+From this project, I was able to further my knowledge on the concept of functional programming in JavaScript. More importantly, however, creating a full stack web app for the first time allowed me to practice the software engineering fundamentals that I have gained from this ICS 314 class. I also feel like I have enhanced my learning in technical aspects. I have learned that the process of adjusting the pixel width of image icons and the dimensions of the borders in panel elements of the interface can be quite time-consuming in order to create a cohesive and aesthetic-looking GUI. I also , such as learning how to read/write to a file and set graphical elements with the Java Swing and AWT libraries. More importantly, however, I got to experience the entire of process of creating an entire project, all of which included planning, designing, programming, testing, and implementing the code for the RPS game.
 
-In a more general sense,
+In a more general sense, cohesive fully functional, meaningful , important/key app/impactful, with a team intangible soft skills that I need to work on. Communication is obviously a significant aspect in group work and a main takeaway from this experience.
 
 ### Improving the App
 
-Definitely some improvements.
+There are definitely some improvements that can be made to this app, such as adding filters and searches for each of the list of tables. Adding a page that lists all containers a specific user is assigned to from the perspective of a user/consumer account can also be beneficial. Incorporating these functions will enhance the UX and make the website more user-friendly. In terms of UI design, adding some CSS styling to the tables can create more of a professional and consistent look to the theme of the website. It can also make the app look more visually cleaner and simpler in its layout.
+
 <br>
 <hr>
 
