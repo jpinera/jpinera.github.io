@@ -46,7 +46,8 @@ You can view and test out our deployed app <a href="https://sustainer.online/" t
 I was mainly responsible for designing and implementing the GUI in this project. This consisted of creating a sketch of the envisioned interface, deciding the size restrictions of the elements and overall window panel, choosing a fitting color scheme for the buttons, and checking the win conditions of the game.
 
 <p align="center">
-<img width="700px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-admin-list.png" alt="react">
+<img width="1000px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-admin-list.png" alt="react">
+<br>
 <br>
 <br>
 <br>
@@ -54,8 +55,8 @@ I was mainly responsible for designing and implementing the GUI in this project.
 <img width="600px" class="img-fluid" src="../img/own-projects/sustainer-web-app/sustainer-pending-vendor.png" alt="react">
 </p>
 
-
-<img class="img-fluid" src="../img/own-projects/RPS-game/scores_txt.png" alt="">
+<br>
+<br>
 
 ## Learning Points from Project
 
@@ -63,6 +64,7 @@ This project was presented at the 2023 <a href="https://www.zerowasteoahu.org/" 
 
 From this project, I was able to further my knowledge on how object-oriented programming (OOP) works. This project allowed me to practice the employment of creating private object classes and using its methods to create the main back-end frame of the game. I learned that the process of adjusting the pixel width of image icons and the dimensions of the borders in panel elements of the interface can be quite time-consuming in order to create a cohesive and aesthetic-looking GUI. I also enhanced my learning in technical aspects, such as learning how to read/write to a file and set graphical elements with the Java Swing and AWT libraries. More importantly, however, I got to experience the entire of process of creating an entire project, all of which included planning, designing, programming, testing, and implementing the code for the RPS game.
 
+In a more general sense,
 
 ### Improving the App
 
