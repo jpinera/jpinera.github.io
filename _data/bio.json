@@ -5,7 +5,7 @@
     "picture": "https://github.com/jpinera.png",
     "email": "jpinera@hawaii.edu",
     "website": "https://jpinera.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I aspire to become front-end engineer for gaming or media companies.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall (December) 2025. I aspire to become front-end engineer for gaming or media companies.",
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jpinera", "url": "http://github.com/jpinera" },
@@ -23,18 +23,22 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "C", "JavaScript", "Meteor", "Bootstrap React", "MongoDB" ]
+      "name": "Languages",
+      "keywords": [ "Python", "JavaScript", "Java", "Dart","C/C++", "Meteor", "Bootstrap", "React", "MongoDB" ]
+    },
+    {
+      "name": "Frameworks/Libraries",
+      "keywords": [ "Meteor", "Bootstrap", "React", "Flutter" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "IntelliJ IDEA" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Microsoft Excel/Word", "Docker", "Jupyter Notebook","IntelliJ IDEA", "Xcode", "Android Studio", "Visual Studio Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
@@ -56,12 +60,12 @@
       "position": "Math grader/tutor",
       "website": "",
       "startDate": "2023-21-08",
-      "endDate": "Present",
-      "summary": "Grades papers and tutors students for Math 307 course.",
+      "endDate": "2024-21-08",
+      "summary": "Graded papers and tutors students for Math 307 course.",
       "highlights": [
-        "Assists students in linear algebra and differential equations courses",
-        "Corrects homework problem sets, quizzes, and midterm exams",
-        "Picks up and returns corrected material to professor within specified time limit"
+        "Assisted students in linear algebra and differential equations courses",
+        "Corrected homework problem sets, quizzes, and midterm exams",
+        "Picked up and returns corrected material to professor within specified time limit"
       ]
     },
     {
@@ -88,7 +92,7 @@
       "website": "",
       "position": "Crew Member & Catechist Aide",
       "startDate": "2014-01-09",
-      "endDate": "Present",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
         "Assisted in Sunday School teaching for Grade 1 students by taking attendance, filing/scanning worksheets, distributing papers and other supplies,     helping students with their work",
