@@ -32,7 +32,7 @@ Coming into this class of Software Engineering II (ICS414), I wasn’t really su
 
 ## **New Semester, New Team**
 
-<img width="450px" class="rounded float-start pe-4" src="../img/technical-essays/414-reflection/team-bonding.jpg" alt="ui-1"> 
+<img width="400px" class="rounded float-start pe-4" src="../img/technical-essays/414-reflection/team-bonding.jpg" alt="ui-1"> 
 
 Over the course of the semester, I realized that working well with my group members is one of the most important things to focus on while working on the project. This is especially true for bigger group projects that involve longer timelines to integrate and implement. I would say that team work influences a significant impact on one’s overall performance and contribution in a project, as the team environment as a whole can make or break one’s experience with group work. It can also shift the mentality of choosing to pursue software engineering as a career path, or building software projects in general. From my experience this semester, I would say that I got along with most of my teammates. It was a little challenging to get along with everyone in the group at first. However, I still liked working in my group mainly because I was able to get comfortable around them fairly quickly, which made it easy for me to talk to them and communicate our ideas effectively. 
 
