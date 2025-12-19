@@ -36,6 +36,8 @@ Coming into this class of Software Engineering II (ICS414), I wasn’t really su
 
 Over the course of the semester, I realized that working well with my group members is one of the most important things to focus on while working on the project. This is especially true for bigger group projects that involve longer timelines to integrate and implement. I would say that team work influences a significant impact on one’s overall performance and contribution in a project, as the team environment as a whole can make or break one’s experience with group work. It can also shift the mentality of choosing to pursue software engineering as a career path, or building software projects in general. From my experience this semester, I would say that I got along with most of my teammates. It was a little challenging to get along with everyone in the group at first. However, I still liked working in my group mainly because I was able to get comfortable around them fairly quickly, which made it easy for me to talk to them and communicate our ideas effectively. 
 
+<br>
+
 #### Successes:
 
 As a group, I thought that we did a good job of clarifying any confusing or misleading ideas that we had for the project. We would often message each other in the group discord whenever there were certain bugs that prevented us from working in specific branches. We would then collectively contribute to come up with solutions and fix those problems. Our group also had some programming conflicts when pulling from and resetting the database on the server side. To fix this, we ended up creating separate branches of the database through a NeonDB Postgres serverless platform, which I thought was one of the good workarounds that our group figured out together. One branch was designed for production, which would be utilized for our deployed app, while other branches were for our development during testing. In this way, each of us could use separate branches of the database without overwriting each other’s work and needing to constantly reseed the database to its default values. As a result, I liked the problem solving skills that our group collectively contributed to. 
@@ -80,7 +82,7 @@ _Taking ICS 414 allowed me to learn how to conduct the following key tasks effec
   * (i.e. Code review issue or milestone issue)
 * Updating our <span style='font-family: monospace; color: #ef496aff;'> **organization home page** </span> for the project on a weekly basis
 
-
+<br>
 
 ### Weekly Meetings
 
