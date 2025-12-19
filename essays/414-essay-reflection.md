@@ -48,6 +48,8 @@ With this being said, there were some times when communicating with my group was
 
 Furthermore, the lack of communication at times also made it hard to work on some project tasks, especially if some GitHub issues relied or were dependent on each other (i.e. a Github issue could only be done if another was finished). Our group tried to prevent these types of problems from occurring by making GitHub issues as separate as possible, so that all of us could work concurrently and independently. Although some communication issues might have caused some confusion when I was working, all of my group members still completed their assigned issues for each milestone and contributed to the project in meaningful ways, which was good. I’m very thankful that I was able to work in a team that was determined to be productive and get a lot of work done, especially when progress needed to be made and shown when presenting for milestones. 
 
+<br>
+
 ### Improving Soft Skills & Team Bonding
 
 Over time, throughout the semester, everyone’s schedules became more busy with school and we began to prioritize working on our other computer science classes or other coding projects such as the HACC. This caused us to not make as much progress on our project as we would’ve liked, which made it hard to communicate with other group members as mentioned before. However, this helped me to step out of my comfort zone when it came to being a more vocal and efficient team member. During our weekly check-in meetings, I would speak up to moderate and host the meeting and check in with everyone else’s progress. This not only allowed me to stay on task and make some contributions each week as a team member, but it also enabled me to understand the vision of the project as a whole. I would also ask questions with team members individually via Discord whenever I didn’t completely understand specific Github issues. This allowed me to not only stay on task, but also continue to add little contributions to our project as the semester went on.
@@ -102,6 +104,7 @@ When I originally took ICS 314, I was only familiar with frameworks in Meteor, R
 During each milestone, I assigned myself a couple of issues relating to the UI of specific web pages that involved displaying inventory management and custom user recipes. As a result, I got to practice with building components using React and TypeScript, while becoming more familiar with the nextJS framework. I was also able to strengthen my technical skills in terms of using React hooks, state logic, and side effects to create more dynamic user interactions and interfaces. This was mainly done with control forms and other user inputs to help me learn how to enhance the overall UX of a web app.
 One of the learning points I got out of this class was the importance of adapting and being flexible to situations in general. This mainly involves adjusting and getting more familiar with using tools for web and software development. Advancements in technology are rapidly advancing today, so it is important to adjust to these modern practices and workflows. Especially with AI advancements and vibe coding on the rise, learning new tools to enhance your skillset and refine your craft can help improve your effectiveness as a software engineer. 
 
+<br>
 
 ## Final Thoughts
 
